@@ -5,10 +5,10 @@ import pandas_datareader as web
 from data import bad_stocks, another_bad_stocks
 
 
-def get_raw_data(from_date="1990-01-01", to_date="2020-01-01"):
+def get_raw_data(from_date="1990-01-01", to_date="2020-01-01", how_many_stocks=None):
     stocks = investpy.get_stocks_list(country="israel")
     stocks = set(stocks) - set(bad_stocks) - set(another_bad_stocks)
-    stocks = [f"{stock}.TA" for stock in stocks][:20]
+    stocks = [f"{stock}.TA" for stock in stocks][:how_many_stocks]
 
     stocks_df = web.get_data_yahoo(stocks, start=from_date, end=to_date, interval='w', chunksize=len(stocks))
     return stocks_df
@@ -18,8 +18,8 @@ def calc_weekly_return(df):
     return df['Adj Close'].resample('W').ffill().pct_change()
 
 
-def calc_annum_std(df):
-    df = df.rolling(52).std()
+def calc_annum_std(df, years=1):
+    df = df.rolling(52 * years).std()
     return df.groupby([df.index.year, df.index.month]).last().T
 
 
