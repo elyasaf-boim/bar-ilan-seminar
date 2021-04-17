@@ -5,13 +5,26 @@ import pandas_datareader as web
 from data import bad_stocks, another_bad_stocks
 
 
+def chunks(lst, n):
+    for i in range(0, len(lst), n):
+        yield lst[i:i + n]
+
+
 def get_raw_data(from_date="1990-01-01", to_date="2020-01-01", how_many_stocks=None):
     stocks = investpy.get_stocks_list(country="israel")
     stocks = set(stocks) - set(bad_stocks) - set(another_bad_stocks)
     stocks = [f"{stock}.TA" for stock in stocks][:how_many_stocks]
-
-    stocks_df = web.get_data_yahoo(stocks, start=from_date, end=to_date, interval='w', chunksize=len(stocks))
-    return stocks_df
+    df = None
+    count = 1
+    for i in list(chunks(stocks, 20)):
+        print(f"round number: {count}")
+        count = count + 1
+        if df is None:
+            df = web.get_data_yahoo(i, start=from_date, end=to_date, interval='w', chunksize=len(i))
+        else:
+            df_2 = web.get_data_yahoo(i, start=from_date, end=to_date, interval='w', chunksize=len(i))
+            df = pd.concat([df, df_2], axis=1, join="inner")
+    return df
 
 
 def calc_weekly_return(df):
