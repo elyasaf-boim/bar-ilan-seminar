@@ -76,5 +76,3 @@ def calc_market_portfolio_monthly_return():
     df.to_csv(".\\Data\\market_portfolio_monthly_return.csv")
 
 
-if __name__ == '__main__':
-    calc_deciles_by_years()
