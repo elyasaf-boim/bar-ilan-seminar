@@ -1,9 +1,8 @@
-from utils import get_raw_data, calc_weekly_return, calc_annum_std, sort_by_volatility
+import pandas as pd
+from utils import calc_market_portfolio_monthly_return
+
+FROM_DATE = "1990-01-01"
+TO_DATE = "2020-01-01"
 
 if __name__ == '__main__':
-    years = 1
-    df = get_raw_data(how_many_stocks=None)
-    df = calc_weekly_return(df)
-    df = calc_annum_std(df, years=years)
-    df = sort_by_volatility(df)
-    df.to_csv(f".\\out-{years}.csv")
+    calc_market_portfolio_monthly_return()
