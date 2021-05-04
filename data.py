@@ -22,7 +22,8 @@ another_bad_stocks = ['ALMO', 'FNTS', 'BVC', 'ISRAp', 'CHR', 'PHOE1', 'FCRE', 'R
                       'PTXp', 'RATIp', 'XTL', 'KRNV', 'TGBR', 'RTPTp', 'PLTF', 'CTPL', 'DIFI', 'DEDRp', 'GLEXp',
                       'ZLKL1', 'GFC', 'MBMX', 'KTOV', 'GIVOp', 'GLRS', 'VNTZ', 'ELWS_t2', 'DLMT', 'KMNK', 'GODM',
                       'ISOP', 'ARYT1', 'NERZ', 'RANI_t1', 'BIMC', 'SEFA', 'MRIN_t1', 'APLY', 'BBYL', 'LUZN_t4', 'GIBU',
-                      'IGLD', 'SHOM_t1', 'MCTC', 'CNBT', 'NVPTp', 'IBLD', 'PLAZ']
+                      'IGLD', 'SHOM_t1', 'MCTC', 'CNBT', 'NVPTp', 'IBLD', 'PLAZ', 'MSLA', 'SLGN', 'HNMR', 'BYAR',
+                      'XENA', 'SHNP', 'AFID']
 
 good_stocks = """NVMI.TA      901
 PRGO.TA      902
