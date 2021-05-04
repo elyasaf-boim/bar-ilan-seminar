@@ -2,7 +2,7 @@ from math import ceil
 import pandas as pd
 import investpy
 import pandas_datareader as web
-from data import bad_stocks, another_bad_stocks
+from const import bad_stocks, another_bad_stocks
 
 
 def calc_deciles_by_years(years=1, how_many_stocks=None):
