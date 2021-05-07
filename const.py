@@ -1,3 +1,5 @@
+import pandas as pd
+
 bad_stocks = ['AFIL01', 'ECJM', 'SUNY', 'UNON', 'MCPL', 'EXEN', 'MABR', 'MDGS', 'MEDI', 'APOS', 'ASPR', 'BGI', 'ANCN',
               'SPIR',
               'GBPR', 'VTLC-M', 'LDER', 'MAXM', 'MRP', 'PNTR', 'TALD', 'NNDM', 'RDHL', 'ADO', 'SMOG', 'JTI', 'HAIN',
@@ -22,3 +24,7 @@ bad_stocks = ['AFIL01', 'ECJM', 'SUNY', 'UNON', 'MCPL', 'EXEN', 'MABR', 'MDGS', 
               'ISOP', 'ARYT1', 'NERZ', 'RANI_t1', 'BIMC', 'SEFA', 'MRIN_t1', 'APLY', 'BBYL', 'LUZN_t4', 'GIBU',
               'IGLD', 'SHOM_t1', 'MCTC', 'CNBT', 'NVPTp', 'IBLD', 'PLAZ', 'MSLA', 'SLGN', 'HNMR', 'BYAR',
               'XENA', 'SHNP', 'AFID']
+
+risk_free = pd.read_csv('..\\Data\\risk_free_return.csv')
+risk_free.Date = pd.to_datetime(risk_free.Date)
+RISK_FREE = risk_free.set_index('Date')[['return']] / 100

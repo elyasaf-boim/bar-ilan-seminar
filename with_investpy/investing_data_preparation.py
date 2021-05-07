@@ -4,9 +4,7 @@ from math import ceil
 import investpy
 import pandas as pd
 import numpy as np
-
-from const import bad_stocks
-from with_investpy.risk_free import risk_free
+from const import bad_stocks, RISK_FREE
 
 FROM_DATE = "01/03/2002"
 TO_DATE = "01/01/2020"
@@ -102,8 +100,45 @@ def calc_monthly_return_of_deciles():
 
 
 def compute_deciles_excess_return():
-    risk_free
+    rr_return = RISK_FREE
     deciles_return = pd.read_csv('..\\Data\\investing_deciles_monthly_return.csv')
+    deciles_return.Date = pd.to_datetime(deciles_return.Date.str.split('_').str.join('/') + "/01", format='%Y/%m/%d')
+    deciles_return = deciles_return.set_index('Date')
+    deciles_excess_return = rr_return.join(deciles_return, how='outer')
+    deciles_excess_return['return'] = deciles_excess_return['return'].ffill()
+    deciles_excess_return = deciles_excess_return[~(deciles_excess_return.D0.isnull())]
+    deciles_excess_return = deciles_excess_return.sub(deciles_excess_return['return'], axis=0)
+    deciles_excess_return = np.log(deciles_excess_return + 1)
+    deciles_excess_return.to_csv('..\\Data\\investing_deciles_monthly_excess_return.csv')
+
+
+def compute_ta125_excess_return():
+    rr_return = RISK_FREE
+    ta125_return = pd.read_csv('../Data/maya_ta125_monthly_return.csv')
+    ta125_return.Date = pd.to_datetime(ta125_return.Date)
+    ta125_return = ta125_return.reset_index()
+    ta125_return = ta125_return.set_index('Date').drop('index', axis=1)
+    ta125_return_excess_return = rr_return.join(ta125_return, how='outer')
+    ta125_return_excess_return['return'] = ta125_return_excess_return['return'].ffill()
+    ta125_return_excess_return = ta125_return_excess_return[~(ta125_return_excess_return.TA125.isnull())]
+    ta125_return_excess_return = ta125_return_excess_return.sub(ta125_return_excess_return['return'], axis=0)
+    ta125_return_excess_return = np.log(ta125_return_excess_return + 1)
+    ta125_return_excess_return.to_csv('..\\Data\\ta125_monthly_excess_return.csv')
+
+
+def merge_ta125_and_deciles():
+    ta125 = pd.read_csv('..\\Data\\ta125_monthly_excess_return.csv')
+    ta125.Date = pd.to_datetime(ta125.Date)
+    ta125 = ta125.set_index('Date').drop('return', axis=1)
+
+    deciles = pd.read_csv('..\\Data\\investing_deciles_monthly_excess_return.csv')
+    deciles.Date = pd.to_datetime(deciles.Date)
+    deciles = deciles.set_index('Date').drop('return', axis=1)
+    merged_df = deciles.join(ta125, how='outer')
+    merged_df.TA125 = merged_df.TA125.ffill()
+    merged_df = merged_df[~(merged_df.D0.isnull())]
+    merged_df.to_csv('..\\Data\\merged_df.csv')
+
 
 if __name__ == '__main__':
-    compute_df()
+    merge_ta125_and_deciles()
