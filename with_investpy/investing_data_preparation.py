@@ -120,6 +120,7 @@ def compute_ta125_excess_return():
     ta125_return = ta125_return.set_index('Date').drop('index', axis=1)
     ta125_return_excess_return = rr_return.join(ta125_return, how='outer')
     ta125_return_excess_return['return'] = ta125_return_excess_return['return'].ffill()
+
     ta125_return_excess_return = ta125_return_excess_return[~(ta125_return_excess_return.TA125.isnull())]
     ta125_return_excess_return = ta125_return_excess_return.sub(ta125_return_excess_return['return'], axis=0)
     ta125_return_excess_return = np.log(ta125_return_excess_return + 1)
@@ -127,17 +128,23 @@ def compute_ta125_excess_return():
 
 
 def merge_ta125_and_deciles():
+    rr_return = RISK_FREE
     ta125 = pd.read_csv('..\\Data\\ta125_monthly_excess_return.csv')
     ta125.Date = pd.to_datetime(ta125.Date)
     ta125 = ta125.set_index('Date').drop('return', axis=1)
-
     deciles = pd.read_csv('..\\Data\\investing_deciles_monthly_excess_return.csv')
     deciles.Date = pd.to_datetime(deciles.Date)
     deciles = deciles.set_index('Date').drop('return', axis=1)
+
     merged_df = deciles.join(ta125, how='outer')
     merged_df.TA125 = merged_df.TA125.ffill()
     merged_df = merged_df[~(merged_df.D0.isnull())]
-    merged_df.to_csv('..\\Data\\merged_df.csv')
+
+    merged_df = merged_df.join(rr_return, how='outer')
+    merged_df['return'] = merged_df['return'].ffill()
+    merged_df = merged_df[~(merged_df.D0.isnull())]
+
+    merged_df.to_csv('..\\Data\\final_merged_df.csv')
 
 
 if __name__ == '__main__':
