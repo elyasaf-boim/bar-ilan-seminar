@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 
 bad_stocks = ['AFIL01', 'ECJM', 'SUNY', 'UNON', 'MCPL', 'EXEN', 'MABR', 'MDGS', 'MEDI', 'APOS', 'ASPR', 'BGI', 'ANCN',
@@ -27,4 +28,4 @@ bad_stocks = ['AFIL01', 'ECJM', 'SUNY', 'UNON', 'MCPL', 'EXEN', 'MABR', 'MDGS', 
 
 risk_free = pd.read_csv('..\\Data\\risk_free_return.csv')
 risk_free.Date = pd.to_datetime(risk_free.Date)
-RISK_FREE = risk_free.set_index('Date')[['return']] / 100
+RISK_FREE = np.log(risk_free.set_index('Date')[['return']] / 100 + 1)
