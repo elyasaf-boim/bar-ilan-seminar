@@ -3,40 +3,12 @@ import itertools
 import math
 from math import ceil
 
-import investpy
 import pandas as pd
 import numpy as np
 from const import bad_stocks, RISK_FREE
 
-EPSILON = 0.0000001
 
-
-def _sort_by_volatility(df):
-    deciles = {}
-    all_month = df.columns
-    for i in range(10):
-        deciles[f"D{i}"] = {}
-        for m in all_month:
-            deciles[f"D{i}"][m] = []
-    for month in all_month:
-        t_df = df[month].copy()
-        t_df = t_df.sort_values().dropna()
-        df_len = t_df.shape[0]
-        step = ceil(df_len / 10)
-        start = 0
-        if step != 0:
-            for i in range(10):
-                end = (i + 1) * step if i != 9 else None
-                if start is None or start >= df_len:
-                    break
-                if end is None or end >= df_len:
-                    end = None
-                deciles[f"D{i}"][month] = str(t_df[start:end].index.values.copy())
-                start = end
-    return pd.DataFrame(deciles)
-
-
-def compute_sharp_ratio():
+def compute_deciles_std():
     df = pd.read_csv("..\\Data\\investing_raw_data.csv", index_col=0, header=0)
     good_stocks = pd.read_csv('../Data/good_stocks.csv')
     good_stocks.columns = ['stocks', 'cnt']
@@ -77,7 +49,6 @@ def compute_sharp_ratio():
                         tmp = df_before_std[[i, j]]
                         tmp = tmp[
                             (df_before_std.index < dt) & (df_before_std.index > dt - datetime.timedelta(weeks=52))]
-                        # tmp = tmp[~(tmp[j].isna()) & ~(tmp[i].isna())]
                         corr = 0 if pd.isna(tmp[i].ffill().bfill().corr(
                             tmp[j].ffill().bfill())) else tmp[i].ffill().bfill().corr(
                             tmp[j].ffill().bfill())
@@ -90,4 +61,4 @@ def compute_sharp_ratio():
 
 
 if __name__ == '__main__':
-    compute_sharp_ratio()
+    compute_deciles_std()
