@@ -1,17 +1,17 @@
-,,D0,D1,D2,D3,D4,D5,D6,D7,D8,D9
-2002,1,[],[],[],[],[],[],[],[],[],[]
-2002,2,[],[],[],[],[],[],[],[],[],[]
-2002,3,[],[],[],[],[],[],[],[],[],[]
-2002,4,[],[],[],[],[],[],[],[],[],[]
-2002,5,[],[],[],[],[],[],[],[],[],[]
-2002,6,[],[],[],[],[],[],[],[],[],[]
-2002,7,[],[],[],[],[],[],[],[],[],[]
-2002,8,[],[],[],[],[],[],[],[],[],[]
-2002,9,[],[],[],[],[],[],[],[],[],[]
-2002,10,[],[],[],[],[],[],[],[],[],[]
-2002,11,[],[],[],[],[],[],[],[],[],[]
-2002,12,[],[],[],[],[],[],[],[],[],[]
-2003,1,"['ARNA close price' 'ENLT close price' 'ISCN close price'
+Date,D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D0_std,D1_std,D2_std,D3_std,D4_std,D5_std,D6_std,D7_std,D8_std,D9_std
+01-01-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-02-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-03-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-04-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-05-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-06-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-07-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-08-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-09-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-10-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-11-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-12-02,[],[],[],[],[],[],[],[],[],[],,,,,,,,,,
+01-01-03,"['ARNA close price' 'ENLT close price' 'ISCN close price'
  'INFR close price' 'LEOF close price' 'GOHO close price'
  'SFET close price' 'ALRPR close price' 'SMT close price'
  'LHIS close price' 'BRND close price' 'INBR close price'
@@ -69,8 +69,8 @@
  'SHOM close price' 'HGG close price' 'TSEM close price'
  'CTPL5 close price' 'NAWI close price' 'UNCR close price'
  'AURA close price' 'APLP close price' 'SRAC close price'
- 'CFX close price']"
-2003,2,"['ARNA close price' 'ENLT close price' 'ISCN close price'
+ 'CFX close price']",4.308727423,12.13072276,19.57520498,30.92093757,37.11862376,91.70004614,179.5973456,152.1616278,609.3332764,58448.24406
+01-02-03,"['ARNA close price' 'ENLT close price' 'ISCN close price'
  'INFR close price' 'LEOF close price' 'GOHO close price'
  'ALRPR close price' 'SFET close price' 'SMT close price'
  'BRND close price' 'LHIS close price' 'INBR close price'
@@ -127,8 +127,8 @@
  'PTBL close price']","['ILCO close price' 'MLTM close price' 'SHOM close price'
  'TSEM close price' 'HGG close price' 'CTPL5 close price'
  'NAWI close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'CFX close price' 'SRAC close price']"
-2003,3,"['ENLT close price' 'ISCN close price' 'ARNA close price'
+ 'APLP close price' 'CFX close price' 'SRAC close price']",6.908290217,14.07853374,38.51501294,43.02866189,98.09648653,103.7617055,207.1242803,249.292191,687.6480787,29238.2286
+01-03-03,"['ENLT close price' 'ISCN close price' 'ARNA close price'
  'INFR close price' 'LEOF close price' 'SMT close price'
  'BRND close price' 'GOHO close price' 'SFET close price'
  'MRHL close price' 'ALRPR close price' 'LHIS close price'
@@ -185,8 +185,8 @@
  'WSMK close price']","['ILCO close price' 'MLTM close price' 'SHOM close price'
  'TSEM close price' 'HGG close price' 'CTPL5 close price'
  'NAWI close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'CFX close price' 'SRAC close price']"
-2003,4,"['ENLT close price' 'SMT close price' 'ISCN close price'
+ 'APLP close price' 'CFX close price' 'SRAC close price']",1.425318868,2.019967386,7.002178266,13.13864138,7.855780679,12.54927954,36.6792478,28.82600658,187.1390921,12122.5887
+01-04-03,"['ENLT close price' 'SMT close price' 'ISCN close price'
  'ARNA close price' 'INFR close price' 'LEOF close price'
  'BRND close price' 'SFET close price' 'ALRPR close price'
  'MRHL close price' 'GOHO close price' 'LAPD close price'
@@ -243,8 +243,8 @@
  'WSMK close price']","['ILCO close price' 'MLTM close price' 'SHOM close price'
  'TSEM close price' 'CTPL5 close price' 'HGG close price'
  'NAWI close price' 'UNCR close price' 'AURA close price'
- 'CFX close price' 'APLP close price' 'SRAC close price']"
-2003,5,"['ENLT close price' 'SMT close price' 'ISCN close price'
+ 'CFX close price' 'APLP close price' 'SRAC close price']",6.494520661,8.57584537,28.33643917,37.58549002,54.53274427,105.4579992,175.9796191,203.4566502,394.2484911,22914.01814
+01-05-03,"['ENLT close price' 'SMT close price' 'ISCN close price'
  'ARNA close price' 'INFR close price' 'LEOF close price'
  'BRND close price' 'SFET close price' 'MRHL close price'
  'AICS close price' 'ALRPR close price' 'LHIS close price'
@@ -301,8 +301,8 @@
  'PTBL close price' 'WSMK close price']","['ILCO close price' 'MLTM close price' 'SHOM close price'
  'TSEM close price' 'CTPL5 close price' 'NAWI close price'
  'HGG close price' 'UNCR close price' 'AURA close price' 'CFX close price'
- 'APLP close price' 'SRAC close price']"
-2003,6,"['ENLT close price' 'SMT close price' 'ISCN close price'
+ 'APLP close price' 'SRAC close price']",3.622835361,6.018491689,16.59536569,25.05117193,36.29152374,56.77979833,82.31620382,173.8133717,443.83429,19877.64261
+01-06-03,"['ENLT close price' 'SMT close price' 'ISCN close price'
  'INFR close price' 'ARNA close price' 'LEOF close price'
  'BRND close price' 'SFET close price' 'MRHL close price'
  'AICS close price' 'RAVD close price' 'LUZN close price'
@@ -359,8 +359,8 @@
  'WSMK close price' 'MLTM close price']","['PTBL close price' 'SHOM close price' 'ILCO close price'
  'TSEM close price' 'CTPL5 close price' 'NAWI close price'
  'HGG close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'CFX close price' 'SRAC close price']"
-2003,7,"['ENLT close price' 'SMT close price' 'ISCN close price'
+ 'APLP close price' 'CFX close price' 'SRAC close price']",3.802562986,8.196667868,17.94064114,25.68272575,51.22679836,57.74111221,156.055866,223.2995623,259.5032203,30110.07117
+01-07-03,"['ENLT close price' 'SMT close price' 'ISCN close price'
  'INFR close price' 'ARNA close price' 'LEOF close price'
  'BRND close price' 'SFET close price' 'MRHL close price'
  'AICS close price' 'ALD close price' 'RAVD close price'
@@ -417,8 +417,8 @@
  'DLEKG close price']","['SHOM close price' 'PTBL close price' 'ILCO close price'
  'TSEM close price' 'CTPL5 close price' 'NAWI close price'
  'HGG close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'SRAC close price' 'CFX close price']"
-2003,8,"['ENLT close price' 'SMT close price' 'ISCN close price'
+ 'APLP close price' 'SRAC close price' 'CFX close price']",2.335464756,4.694169827,5.087374217,12.21910005,20.77751115,28.05708088,65.00932432,89.51848818,148.9113519,27469.04095
+01-08-03,"['ENLT close price' 'SMT close price' 'ISCN close price'
  'INFR close price' 'ARNA close price' 'LEOF close price'
  'BRND close price' 'SFET close price' 'MRHL close price'
  'AICS close price' 'ALD close price' 'RAVD close price'
@@ -475,8 +475,8 @@
  'DLEKG close price']","['SHOM close price' 'PTBL close price' 'ILCO close price'
  'TSEM close price' 'CTPL5 close price' 'NAWI close price'
  'HGG close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'SRAC close price' 'CFX close price']"
-2003,9,"['ENLT close price' 'SMT close price' 'ISCN close price'
+ 'APLP close price' 'SRAC close price' 'CFX close price']",1.151688931,2.039789609,6.248692381,8.247211454,5.543503473,18.15581806,31.21670706,71.3574635,98.20517497,10267.90952
+01-09-03,"['ENLT close price' 'SMT close price' 'ISCN close price'
  'INFR close price' 'ARNA close price' 'BRND close price'
  'LEOF close price' 'SFET close price' 'MRHL close price'
  'ALD close price' 'LUZN close price' 'AICS close price'
@@ -533,8 +533,8 @@
  'SHOM close price' 'DLEKG close price']","['PTBL close price' 'ILCO close price' 'TSEM close price'
  'CTPL5 close price' 'NAWI close price' 'HGG close price'
  'UNCR close price' 'AURA close price' 'SRAC close price'
- 'APLP close price' 'CFX close price']"
-2003,10,"['SMT close price' 'ENLT close price' 'ISCN close price'
+ 'APLP close price' 'CFX close price']",3.38038704,4.449956773,9.571409748,20.99999305,26.02981158,43.97359846,86.96302121,130.6365863,234.2889261,19166.90967
+01-10-03,"['SMT close price' 'ENLT close price' 'ISCN close price'
  'MRHL close price' 'INFR close price' 'BRND close price'
  'ARNA close price' 'LEOF close price' 'SFET close price'
  'LUZN close price' 'NTGR close price' 'BOTI close price'
@@ -591,8 +591,8 @@
  'SHOM close price' 'PEN close price']","['CTPL5 close price' 'DLEKG close price' 'PTBL close price'
  'ILCO close price' 'NAWI close price' 'TSEM close price'
  'UNCR close price' 'HGG close price' 'AURA close price'
- 'SRAC close price' 'APLP close price' 'CFX close price']"
-2003,11,"['SMT close price' 'ENLT close price' 'ISCN close price'
+ 'SRAC close price' 'APLP close price' 'CFX close price']",2.975757122,7.083599927,8.132381064,56.3402785,49.54044841,91.09256722,198.3005968,313.5979587,528.1848261,21058.47197
+01-11-03,"['SMT close price' 'ENLT close price' 'ISCN close price'
  'MRHL close price' 'INFR close price' 'BRND close price'
  'ARNA close price' 'LEOF close price' 'SFET close price'
  'BOTI close price' 'NTGR close price' 'BIRM close price'
@@ -649,8 +649,8 @@
  'MNRV close price']","['SHOM close price' 'CTPL5 close price' 'DLEKG close price'
  'PTBL close price' 'ILCO close price' 'NAWI close price'
  'TSEM close price' 'HGG close price' 'AURA close price'
- 'SRAC close price' 'APLP close price' 'CFX close price']"
-2003,12,"['UNCR close price' 'SMT close price' 'CTPL5 close price'
+ 'SRAC close price' 'APLP close price' 'CFX close price']",1.275624279,5.481151163,7.222578165,29.11433767,30.72384022,59.60964046,67.91199584,180.9171683,359.1580795,37338.5897
+01-12-03,"['UNCR close price' 'SMT close price' 'CTPL5 close price'
  'NVMI close price' 'CSURE close price' 'NAWI close price'
  'ENLT close price' 'BOTI close price' 'ISCN close price'
  'INFR close price' 'BRND close price' 'NTGR close price'
@@ -708,8 +708,8 @@
  'SHOM close price' 'DLEKG close price' 'PTBL close price'
  'ILCO close price' 'TSEM close price' 'HGG close price'
  'AURA close price' 'SRAC close price' 'APLP close price'
- 'CFX close price']"
-2004,1,"['NVMI close price' 'NAWI close price' 'ENLT close price'
+ 'CFX close price']",1.362322519,6.954643021,16.94544406,18.04558338,53.44777487,97.77373695,159.8088495,342.3277225,578.5346958,36419.27103
+01-01-04,"['NVMI close price' 'NAWI close price' 'ENLT close price'
  'ISCN close price' 'INFR close price' 'BRND close price'
  'ARNA close price' 'NTGR close price' 'SFET close price'
  'LEOF close price' 'TUZA close price' 'MRHL close price'
@@ -767,8 +767,8 @@
  'UNCR close price' 'SHOM close price' 'PTBL close price'
  'ILCO close price' 'HGG close price' 'TSEM close price'
  'CSURE close price' 'AURA close price' 'SRAC close price'
- 'APLP close price' 'CFX close price']"
-2004,2,"['NVMI close price' 'NAWI close price' 'ENLT close price'
+ 'APLP close price' 'CFX close price']",2.416090479,7.983675524,8.699816385,30.97986952,42.90835093,70.88223593,151.3741934,190.5815512,490.4109466,16526.61643
+01-02-04,"['NVMI close price' 'NAWI close price' 'ENLT close price'
  'ISCN close price' 'INFR close price' 'BRND close price'
  'LEOF close price' 'ARNA close price' 'NTGR close price'
  'INBR close price' 'SFET close price' 'MRHL close price'
@@ -826,8 +826,8 @@
  'PTBL close price' 'SHOM close price' 'ILCO close price'
  'HGG close price' 'TSEM close price' 'UNCR close price'
  'CSURE close price' 'AURA close price' 'SRAC close price'
- 'APLP close price' 'CFX close price']"
-2004,3,"['NVMI close price' 'NAWI close price' 'ENLT close price'
+ 'APLP close price' 'CFX close price']",4.477905623,13.98883357,42.84424632,39.07569358,77.35487595,75.34376581,177.7168169,183.086752,756.4469908,39894.49811
+01-03-04,"['NVMI close price' 'NAWI close price' 'ENLT close price'
  'ISCN close price' 'INFR close price' 'LEOF close price'
  'BRND close price' 'ARNA close price' 'INBR close price'
  'NTGR close price' 'SFET close price' 'TUZA close price'
@@ -885,8 +885,8 @@
  'PTBL close price' 'SHOM close price' 'ILCO close price'
  'HGG close price' 'TSEM close price' 'UNCR close price'
  'CSURE close price' 'AURA close price' 'SRAC close price'
- 'APLP close price' 'CFX close price']"
-2004,4,"['NVMI close price' 'NAWI close price' 'ENLT close price'
+ 'APLP close price' 'CFX close price']",3.545187992,18.62936817,20.23740057,31.29785245,56.55404376,79.1203517,114.3019439,140.3230881,422.5662033,67151.83518
+01-04-04,"['NVMI close price' 'NAWI close price' 'ENLT close price'
  'ISCN close price' 'INFR close price' 'LEOF close price'
  'ARNA close price' 'BRND close price' 'INBR close price'
  'NTGR close price' 'SFET close price' 'MRHL close price'
@@ -944,8 +944,8 @@
  'PTBL close price' 'SHOM close price' 'HGG close price'
  'TSEM close price' 'ILCO close price' 'UNCR close price'
  'CSURE close price' 'AURA close price' 'SRAC close price'
- 'APLP close price' 'CFX close price']"
-2004,5,"['NVMI close price' 'NAWI close price' 'ENLT close price'
+ 'APLP close price' 'CFX close price']",0.910101877,6.478720639,14.7417569,11.56438006,36.5346615,34.06513825,82.72469274,101.7727022,233.5721484,27109.61916
+01-05-04,"['NVMI close price' 'NAWI close price' 'ENLT close price'
  'ISCN close price' 'INFR close price' 'LEOF close price'
  'ARNA close price' 'INBR close price' 'NTGR close price'
  'BRND close price' 'YBOX close price' 'SFET close price'
@@ -1003,8 +1003,8 @@
  'PTBL close price' 'HGG close price' 'CTPL5 close price'
  'SHOM close price' 'TSEM close price' 'ILCO close price'
  'UNCR close price' 'CSURE close price' 'AURA close price'
- 'SRAC close price' 'APLP close price' 'CFX close price']"
-2004,6,"['NVMI close price' 'NAWI close price' 'ENLT close price'
+ 'SRAC close price' 'APLP close price' 'CFX close price']",1.750110637,7.47185756,12.75162154,26.21930814,45.38032031,53.98405645,114.0803343,225.4949767,351.2690024,28680.57956
+01-06-04,"['NVMI close price' 'NAWI close price' 'ENLT close price'
  'ISCN close price' 'INFR close price' 'LEOF close price'
  'ARNA close price' 'INBR close price' 'NTGR close price'
  'BRND close price' 'YBOX close price' 'SFET close price'
@@ -1062,8 +1062,8 @@
  'PTBL close price' 'HGG close price' 'CTPL5 close price'
  'TSEM close price' 'SHOM close price' 'ILCO close price'
  'UNCR close price' 'CSURE close price' 'AURA close price'
- 'SRAC close price' 'APLP close price' 'CFX close price']"
-2004,7,"['NVMI close price' 'ENLT close price' 'ISCN close price'
+ 'SRAC close price' 'APLP close price' 'CFX close price']",3.189406966,9.115120975,16.10346841,30.02171695,53.30216636,106.8067773,123.8107805,213.5831236,615.2308043,14714.83797
+01-07-04,"['NVMI close price' 'ENLT close price' 'ISCN close price'
  'INFR close price' 'LEOF close price' 'ARNA close price'
  'INBR close price' 'NTGR close price' 'BRND close price'
  'MRHL close price' 'YBOX close price' 'SFET close price'
@@ -1121,8 +1121,8 @@
  'HGG close price' 'SHOM close price' 'TSEM close price'
  'CTPL5 close price' 'ILCO close price' 'UNCR close price'
  'CSURE close price' 'AURA close price' 'SRAC close price'
- 'APLP close price' 'CFX close price']"
-2004,8,"['NVMI close price' 'ENLT close price' 'ISCN close price'
+ 'APLP close price' 'CFX close price']",3.024388164,10.07461459,23.05430774,30.50699193,60.26593919,71.76852494,74.12553002,235.4975127,396.8553537,48383.8627
+01-08-04,"['NVMI close price' 'ENLT close price' 'ISCN close price'
  'INFR close price' 'LEOF close price' 'ARNA close price'
  'INBR close price' 'NTGR close price' 'BRND close price'
  'MRHL close price' 'YBOX close price' 'SFET close price'
@@ -1180,8 +1180,8 @@
  'PTBL close price' 'HGG close price' 'SHOM close price'
  'TSEM close price' 'ILCO close price' 'UNCR close price'
  'CTPL5 close price' 'CSURE close price' 'AURA close price'
- 'SRAC close price' 'APLP close price' 'CFX close price']"
-2004,9,"['NVMI close price' 'ENLT close price' 'INFR close price'
+ 'SRAC close price' 'APLP close price' 'CFX close price']",3.471256374,6.847708428,16.70908967,35.25024126,50.55927804,74.68093741,97.66335603,210.899599,412.1737049,11270.41079
+01-09-04,"['NVMI close price' 'ENLT close price' 'INFR close price'
  'ISCN close price' 'LEOF close price' 'ARNA close price'
  'INBR close price' 'NTGR close price' 'BRND close price'
  'MRHL close price' 'YBOX close price' 'SFET close price'
@@ -1239,8 +1239,8 @@
  'PTBL close price' 'HGG close price' 'SHOM close price'
  'ILCO close price' 'TSEM close price' 'UNCR close price'
  'CTPL5 close price' 'CSURE close price' 'AURA close price'
- 'SRAC close price' 'APLP close price' 'CFX close price']"
-2004,10,"['NVMI close price' 'ENLT close price' 'INFR close price'
+ 'SRAC close price' 'APLP close price' 'CFX close price']",0.963574646,3.330578018,12.6801361,17.89223023,21.58093503,34.48300301,75.2228407,91.07745851,259.4903512,14848.29665
+01-10-04,"['NVMI close price' 'ENLT close price' 'INFR close price'
  'ISCN close price' 'LEOF close price' 'ARNA close price'
  'INBR close price' 'NTGR close price' 'MRHL close price'
  'BRND close price' 'ALD close price' 'YBOX close price'
@@ -1298,8 +1298,8 @@
  'PTBL close price' 'HGG close price' 'SHOM close price'
  'ILCO close price' 'TSEM close price' 'UNCR close price'
  'CTPL5 close price' 'CSURE close price' 'AURA close price'
- 'SRAC close price' 'APLP close price' 'CFX close price']"
-2004,11,"['NVMI close price' 'ENLT close price' 'INFR close price'
+ 'SRAC close price' 'APLP close price' 'CFX close price']",2.923344667,5.942600714,20.52442737,31.68160104,58.28897931,59.58978198,130.7200168,173.7529397,454.7362043,13268.19097
+01-11-04,"['NVMI close price' 'ENLT close price' 'INFR close price'
  'LEOF close price' 'ISCN close price' 'ARNA close price'
  'MRHL close price' 'INBR close price' 'NTGR close price'
  'BRND close price' 'ALD close price' 'FRSX close price'
@@ -1357,8 +1357,8 @@
  'PTBL close price' 'HGG close price' 'SHOM close price'
  'ILCO close price' 'TSEM close price' 'UNCR close price'
  'CSURE close price' 'CTPL5 close price' 'AURA close price'
- 'SRAC close price' 'APLP close price' 'CFX close price']"
-2004,12,"['FRSX close price' 'INBR close price' 'NVMI close price'
+ 'SRAC close price' 'APLP close price' 'CFX close price']",0.975448827,3.085676122,6.818208356,15.1434685,25.77572771,20.60358007,65.95677767,74.21468681,173.1984204,4857.399392
+01-12-04,"['FRSX close price' 'INBR close price' 'NVMI close price'
  'MRHL close price' 'HGG close price' 'ENLT close price'
  'INFR close price' 'LEOF close price' 'ARNA close price'
  'ISCN close price' 'ELWS close price' 'NTGR close price'
@@ -1417,8 +1417,8 @@
  'PTBL close price' 'WSMK close price' 'ILCO close price'
  'SHOM close price' 'TSEM close price' 'CSURE close price'
  'UNCR close price' 'CTPL5 close price' 'SRAC close price'
- 'AURA close price' 'APLP close price' 'CFX close price']"
-2005,1,"['FRSX close price' 'INBR close price' 'NVMI close price'
+ 'AURA close price' 'APLP close price' 'CFX close price']",1.875580983,6.096090604,19.5368942,22.5193745,35.09790491,44.99322121,67.96604621,121.8108385,258.236892,14756.70101
+01-01-05,"['FRSX close price' 'INBR close price' 'NVMI close price'
  'HGG close price' 'ENLT close price' 'INFR close price'
  'LEOF close price' 'ARNA close price' 'ISCN close price'
  'NTGR close price' 'ALD close price' 'BRND close price'
@@ -1478,8 +1478,8 @@
  'ILCO close price' 'CSURE close price' 'SHOM close price'
  'TSEM close price' 'UNCR close price' 'CTPL5 close price'
  'AURA close price' 'SRAC close price' 'APLP close price'
- 'CFX close price']"
-2005,2,"['FRSX close price' 'INBR close price' 'NVMI close price'
+ 'CFX close price']",0.365339626,2.951316591,6.610793812,10.59643134,13.67854184,12.96554421,26.36498798,56.6369466,83.45566472,12003.7208
+01-02-05,"['FRSX close price' 'INBR close price' 'NVMI close price'
  'HGG close price' 'ENLT close price' 'INFR close price'
  'LEOF close price' 'ISCN close price' 'ARNA close price'
  'NTGR close price' 'ALD close price' 'BRND close price'
@@ -1538,8 +1538,8 @@
  'WSMK close price' 'ILCO close price' 'CSURE close price'
  'SHOM close price' 'TSEM close price' 'UNCR close price'
  'CTPL5 close price' 'AURA close price' 'SRAC close price'
- 'APLP close price' 'CFX close price']"
-2005,3,"['FRSX close price' 'INBR close price' 'NVMI close price'
+ 'APLP close price' 'CFX close price']",2.730019746,12.84497663,29.79643082,37.16450376,55.26566819,109.3005934,105.918168,123.5805085,295.2734877,92935.65499
+01-03-05,"['FRSX close price' 'INBR close price' 'NVMI close price'
  'HGG close price' 'ENLT close price' 'LEOF close price'
  'INFR close price' 'ISCN close price' 'ARNA close price'
  'NTGR close price' 'BRND close price' 'ALD close price'
@@ -1599,8 +1599,8 @@
  'ILCO close price' 'SHOM close price' 'CSURE close price'
  'TSEM close price' 'UNCR close price' 'CTPL5 close price'
  'AURA close price' 'SRAC close price' 'APLP close price'
- 'CFX close price']"
-2005,4,"['INBR close price' 'HGG close price' 'ENLT close price'
+ 'CFX close price']",2.393743115,10.50587601,15.80844761,29.05112978,42.01339286,54.69850513,98.03408318,133.9995013,233.1414128,68726.35458
+01-04-05,"['INBR close price' 'HGG close price' 'ENLT close price'
  'LEOF close price' 'NVMI close price' 'INFR close price'
  'ISCN close price' 'NTGR close price' 'BRND close price'
  'ARNA close price' 'ALD close price' 'AVLN close price'
@@ -1660,8 +1660,8 @@
  'SHOM close price' 'CSURE close price' 'TSEM close price'
  'ILCO close price' 'UNCR close price' 'CTPL5 close price'
  'AURA close price' 'APLP close price' 'SRAC close price'
- 'CFX close price']"
-2005,5,"['INBR close price' 'HGG close price' 'ENLT close price'
+ 'CFX close price']",0.856539003,4.346801375,7.595291224,8.834381105,25.90703856,31.65100873,48.6333509,67.47859923,92.11063288,34736.08898
+01-05-05,"['INBR close price' 'HGG close price' 'ENLT close price'
  'LEOF close price' 'NVMI close price' 'INFR close price'
  'ISCN close price' 'BRND close price' 'NTGR close price'
  'ARNA close price' 'LZNR close price' 'ALD close price'
@@ -1721,8 +1721,8 @@
  'SHOM close price' 'CSURE close price' 'TSEM close price'
  'ILCO close price' 'UNCR close price' 'CTPL5 close price'
  'AURA close price' 'APLP close price' 'SRAC close price'
- 'CFX close price']"
-2005,6,"['HGG close price' 'INBR close price' 'LEOF close price'
+ 'CFX close price']",7.405877323,9.374983818,20.68286535,26.54781344,53.90307734,88.48905266,83.58496016,181.062611,177.3451401,23161.90789
+01-06-05,"['HGG close price' 'INBR close price' 'LEOF close price'
  'INFR close price' 'ISCN close price' 'NTGR close price'
  'BRND close price' 'ARNA close price' 'NVMI close price'
  'YBOX close price' 'SEMG close price' 'ALD close price'
@@ -1782,8 +1782,8 @@
  'DLEKG close price' 'SHOM close price' 'TSEM close price'
  'CSURE close price' 'ILCO close price' 'UNCR close price'
  'CTPL5 close price' 'AURA close price' 'APLP close price'
- 'SRAC close price' 'CFX close price']"
-2005,7,"['HGG close price' 'INBR close price' 'LEOF close price'
+ 'SRAC close price' 'CFX close price']",1.107640568,9.780898313,10.82142425,18.21681335,26.34573548,52.09337257,44.42994116,84.61498076,115.1970238,24361.46321
+01-07-05,"['HGG close price' 'INBR close price' 'LEOF close price'
  'INFR close price' 'ISCN close price' 'NTGR close price'
  'BRND close price' 'SEMG close price' 'YBOX close price'
  'ARNA close price' 'SHAN close price' 'ALD close price'
@@ -1842,8 +1842,8 @@
  'TSEM close price' 'SHOM close price' 'CSURE close price'
  'ILCO close price' 'UNCR close price' 'CTPL5 close price'
  'AURA close price' 'APLP close price' 'SRAC close price'
- 'CFX close price']"
-2005,8,"['HGG close price' 'INBR close price' 'LEOF close price'
+ 'CFX close price']",7.56796144,13.75342573,15.06190942,39.08211746,60.40972593,77.49420007,123.3425023,251.7057266,294.819413,67268.48554
+01-08-05,"['HGG close price' 'INBR close price' 'LEOF close price'
  'INFR close price' 'ISCN close price' 'NTGR close price'
  'BRND close price' 'SHAN close price' 'SEMG close price'
  'YBOX close price' 'ARNA close price' 'TUZA close price'
@@ -1903,8 +1903,8 @@
  'TSEM close price' 'SHOM close price' 'CSURE close price'
  'ILCO close price' 'UNCR close price' 'CTPL5 close price'
  'AURA close price' 'SRAC close price' 'APLP close price'
- 'CFX close price']"
-2005,9,"['HGG close price' 'INBR close price' 'LEOF close price'
+ 'CFX close price']",2.523937039,6.181996731,5.025599495,11.48572683,16.91882481,19.72176963,64.62012988,81.75497439,108.8976143,14601.05055
+01-09-05,"['HGG close price' 'INBR close price' 'LEOF close price'
  'INFR close price' 'ISCN close price' 'NTGR close price'
  'YBOX close price' 'BRND close price' 'SEMG close price'
  'ARNA close price' 'TUZA close price' 'ENLT close price'
@@ -1962,8 +1962,8 @@
  'DLEKG close price' 'SHOM close price' 'CSURE close price'
  'ILCO close price' 'CTPL5 close price' 'UNCR close price'
  'AURA close price' 'SRAC close price' 'APLP close price'
- 'CFX close price']"
-2005,10,"['HGG close price' 'INBR close price' 'LEOF close price'
+ 'CFX close price']",4.11493219,11.94403765,17.1652094,31.89221933,56.49227179,59.63954339,134.0867849,248.2395008,333.0948007,129437.5762
+01-10-05,"['HGG close price' 'INBR close price' 'LEOF close price'
  'INFR close price' 'ISCN close price' 'NTGR close price'
  'YBOX close price' 'SEMG close price' 'BRND close price'
  'TUZA close price' 'ENLT close price' 'ALD close price'
@@ -2021,8 +2021,8 @@
  'SHOM close price' 'DLEKG close price' 'CSURE close price'
  'CTPL5 close price' 'ILCO close price' 'UNCR close price'
  'SRAC close price' 'AURA close price' 'APLP close price'
- 'CFX close price']"
-2005,11,"['HGG close price' 'LEOF close price' 'INBR close price'
+ 'CFX close price']",6.167992026,5.998066697,8.229374395,13.07492867,23.62986287,21.88032089,45.25625815,65.09182815,67.40032976,19148.87684
+01-11-05,"['HGG close price' 'LEOF close price' 'INBR close price'
  'INFR close price' 'ISCN close price' 'YBOX close price'
  'NTGR close price' 'GOHO close price' 'SEMG close price'
  'BRND close price' 'TUZA close price' 'ALD close price'
@@ -2081,8 +2081,8 @@
  'WSMK close price' 'CSURE close price' 'DLEKG close price'
  'CTPL5 close price' 'ILCO close price' 'UNCR close price'
  'SRAC close price' 'APLP close price' 'AURA close price'
- 'CFX close price']"
-2005,12,"['LEOF close price' 'INFR close price' 'INBR close price'
+ 'CFX close price']",6.398842034,8.979765441,14.55489826,31.50944533,43.2872611,51.61247774,80.15203457,134.1022461,160.3810837,81806.37385
+01-12-05,"['LEOF close price' 'INFR close price' 'INBR close price'
  'ISCN close price' 'GOHO close price' 'YBOX close price'
  'NTGR close price' 'SEMG close price' 'TUZA close price'
  'ALD close price' 'BRND close price' 'AVLN close price'
@@ -2141,8 +2141,8 @@
  'SHOM close price' 'WSMK close price' 'CSURE close price'
  'DLEKG close price' 'CTPL5 close price' 'ILCO close price'
  'UNCR close price' 'SRAC close price' 'APLP close price'
- 'AURA close price' 'CFX close price']"
-2006,1,"['LEOF close price' 'INFR close price' 'INBR close price'
+ 'AURA close price' 'CFX close price']",1.393291491,6.650995739,13.84136746,10.18646699,25.6532103,17.58535994,33.25797847,87.68437944,89.56274413,14358.12831
+01-01-06,"['LEOF close price' 'INFR close price' 'INBR close price'
  'YBOX close price' 'NTGR close price' 'SEMG close price'
  'TUZA close price' 'AVLN close price' 'ALD close price'
  'BRND close price' 'ARNA close price' 'ISCN close price'
@@ -2201,8 +2201,8 @@
  'PTBL close price' 'SHOM close price' 'WSMK close price'
  'CSURE close price' 'DLEKG close price' 'CTPL5 close price'
  'ILCO close price' 'UNCR close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2006,2,"['LEOF close price' 'INFR close price' 'YBOX close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",5.072941784,13.20873979,18.77917563,18.82119705,55.72894173,53.22347871,125.3959931,147.8563338,328.5426374,75022.68467
+01-02-06,"['LEOF close price' 'INFR close price' 'YBOX close price'
  'TUZA close price' 'SEMG close price' 'NTGR close price'
  'ALD close price' 'AVLN close price' 'SFET close price'
  'BOTI close price' 'LZNR close price' 'MYDS close price'
@@ -2261,8 +2261,8 @@
  'SHOM close price' 'PTBL close price' 'WSMK close price'
  'CSURE close price' 'DLEKG close price' 'ILCO close price'
  'CTPL5 close price' 'UNCR close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2006,3,"['LEOF close price' 'INFR close price' 'TUZA close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",2.548082386,8.308705711,22.40597747,26.06119719,31.00392449,49.47157087,69.44494874,102.4970437,192.2438193,55020.28155
+01-03-06,"['LEOF close price' 'INFR close price' 'TUZA close price'
  'YBOX close price' 'ALD close price' 'NTGR close price'
  'LZNR close price' 'SFET close price' 'BOTI close price'
  'MYDS close price' 'ASHO close price' 'ASGR close price'
@@ -2322,8 +2322,8 @@
  'PTBL close price' 'DLEKG close price' 'CSURE close price'
  'ILCO close price' 'CTPL5 close price' 'UNCR close price'
  'SRAC close price' 'APLP close price' 'AURA close price'
- 'CFX close price']"
-2006,4,"['INFR close price' 'LEOF close price' 'TUZA close price'
+ 'CFX close price']",6.097037799,10.24103344,24.36915271,27.42877471,43.67576294,57.94922747,138.8215266,149.8623103,394.3023633,86573.13282
+01-04-06,"['INFR close price' 'LEOF close price' 'TUZA close price'
  'YBOX close price' 'LZNR close price' 'ALD close price'
  'SFET close price' 'NTGR close price' 'ASHO close price'
  'ASGR close price' 'EMCO close price' 'MYDS close price'
@@ -2382,8 +2382,8 @@
  'ELTR close price' 'WSMK close price' 'PTBL close price'
  'DLEKG close price' 'CSURE close price' 'ILCO close price'
  'CTPL5 close price' 'UNCR close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2006,5,"['INFR close price' 'LEOF close price' 'TUZA close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",4.820829176,27.72183071,30.77632725,51.92106082,79.55607832,149.0459499,253.6575001,237.861789,605.8453809,188509.8557
+01-05-06,"['INFR close price' 'LEOF close price' 'TUZA close price'
  'YBOX close price' 'LZNR close price' 'ALD close price'
  'SFET close price' 'ASHO close price' 'EMCO close price'
  'NTGR close price' 'CISY close price' 'ASGR close price'
@@ -2442,8 +2442,8 @@
  'ELTR close price' 'WSMK close price' 'PTBL close price'
  'DLEKG close price' 'ILCO close price' 'CSURE close price'
  'UNCR close price' 'CTPL5 close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2006,6,"['INFR close price' 'LEOF close price' 'TUZA close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",2.911710029,6.884223991,14.52488434,20.74781186,27.13380916,35.09605206,84.87805567,119.1650863,283.8643233,48547.5535
+01-06-06,"['INFR close price' 'LEOF close price' 'TUZA close price'
  'YBOX close price' 'LZNR close price' 'EMCO close price'
  'ALD close price' 'SFET close price' 'ASHO close price'
  'CISY close price' 'LAHAV close price' 'ASGR close price'
@@ -2502,8 +2502,8 @@
  'ELTR close price' 'WSMK close price' 'PTBL close price'
  'DLEKG close price' 'ILCO close price' 'CSURE close price'
  'CTPL5 close price' 'UNCR close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2006,7,"['INFR close price' 'LEOF close price' 'TUZA close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",2.332378023,4.514036124,10.49473658,10.03969563,20.7039525,29.38571707,60.88133748,112.8205446,158.089899,29947.02692
+01-07-06,"['INFR close price' 'LEOF close price' 'TUZA close price'
  'YBOX close price' 'LZNR close price' 'ALD close price'
  'EMCO close price' 'ASHO close price' 'CISY close price'
  'SFET close price' 'ROTS close price' 'ASGR close price'
@@ -2562,8 +2562,8 @@
  'ELTR close price' 'WSMK close price' 'PTBL close price'
  'DLEKG close price' 'ILCO close price' 'CSURE close price'
  'CTPL5 close price' 'UNCR close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2006,8,"['INFR close price' 'LEOF close price' 'TUZA close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",2.176564347,5.946896046,11.31934612,17.53402716,22.66228101,42.52455364,53.69347567,100.150886,236.7569322,97622.84706
+01-08-06,"['INFR close price' 'LEOF close price' 'TUZA close price'
  'LZNR close price' 'YBOX close price' 'ALD close price'
  'ASHO close price' 'EMCO close price' 'LAHAV close price'
  'ASGR close price' 'SFET close price' 'ROTS close price'
@@ -2622,8 +2622,8 @@
  'WSMK close price' 'ELTR close price' 'PTBL close price'
  'DLEKG close price' 'ILCO close price' 'CSURE close price'
  'CTPL5 close price' 'SRAC close price' 'UNCR close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2006,9,"['LEOF close price' 'INFR close price' 'TUZA close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",5.071591485,12.57458281,14.92036351,31.54907174,39.12454549,68.38619229,116.2545329,164.468855,281.8973059,95682.55261
+01-09-06,"['LEOF close price' 'INFR close price' 'TUZA close price'
  'LZNR close price' 'ALD close price' 'ASHO close price'
  'YBOX close price' 'EMCO close price' 'ASGR close price'
  'ROTS close price' 'SFET close price' 'LAHAV close price'
@@ -2688,8 +2688,8 @@
  'ELTR close price' 'PTBL close price' 'DLEKG close price'
  'ILCO close price' 'CSURE close price' 'CTPL5 close price'
  'SRAC close price' 'UNCR close price' 'APLP close price'
- 'AURA close price' 'CFX close price']"
-2006,10,"['LEOF close price' 'INFR close price' 'TUZA close price'
+ 'AURA close price' 'CFX close price']",2.547880515,3.088094557,8.013980274,8.300854623,10.88142409,36.68658072,47.36887095,63.26410442,90.89137878,17987.38959
+01-10-06,"['LEOF close price' 'INFR close price' 'TUZA close price'
  'ALD close price' 'LZNR close price' 'ASHO close price'
  'YBOX close price' 'EMCO close price' 'ASGR close price'
  'LAHAV close price' 'SFET close price' 'ROTS close price'
@@ -2754,8 +2754,8 @@
  'DLEKG close price' 'PTBL close price' 'ILCO close price'
  'CSURE close price' 'CTPL5 close price' 'SRAC close price'
  'UNCR close price' 'APLP close price' 'AURA close price'
- 'CFX close price']"
-2006,11,"['LEOF close price' 'INFR close price' 'TUZA close price'
+ 'CFX close price']",3.19427467,5.191553178,16.64808719,16.23911631,33.44091664,46.59433799,93.58870596,166.8582164,270.9325892,47421.5288
+01-11-06,"['LEOF close price' 'INFR close price' 'TUZA close price'
  'ALD close price' 'LZNR close price' 'MYDS close price'
  'ASHO close price' 'LAHAV close price' 'SFET close price'
  'EMCO close price' 'ENLT close price' 'YBOX close price'
@@ -2820,8 +2820,8 @@
  'ELTR close price' 'PTBL close price' 'ILCO close price'
  'CSURE close price' 'CTPL5 close price' 'SRAC close price'
  'UNCR close price' 'APLP close price' 'AURA close price'
- 'CFX close price']"
-2006,12,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'CFX close price']",2.870141963,6.124948823,15.67484747,24.34691485,38.83005713,37.14189697,88.6762498,131.9648503,367.2995922,79732.93822
+01-12-06,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TUZA close price' 'LZNR close price' 'ALD close price'
  'ASHO close price' 'TOPS close price' 'MYDS close price'
  'LAHAV close price' 'ENLT close price' 'SFET close price'
@@ -2889,8 +2889,8 @@
  'HRON close price' 'ILCO close price' 'CTPL5 close price'
  'CSURE close price' 'OPAL close price' 'MYSZ close price'
  'APLP close price' 'UNCR close price' 'SRAC close price'
- 'AURA close price' 'CFX close price']"
-2007,1,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'AURA close price' 'CFX close price']",6.650654888,10.16338297,30.19386146,41.41889542,75.56975486,127.1194477,231.1830499,321.1319333,969.8693518,266928.1439
+01-01-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TUZA close price' 'TOPS close price' 'ASHO close price'
  'LZNR close price' 'ENLT close price' 'SFET close price'
  'ALD close price' 'KAFR close price' 'JBNK close price'
@@ -2958,8 +2958,8 @@
  'HRON close price' 'ILCO close price' 'CTPL5 close price'
  'CSURE close price' 'OPAL close price' 'APLP close price'
  'MYSZ close price' 'UNCR close price' 'SRAC close price'
- 'AURA close price' 'CFX close price']"
-2007,2,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'AURA close price' 'CFX close price']",9.907531577,20.30986921,30.30615391,46.97842084,61.74039207,79.08521811,296.6248808,237.3820498,740.3200085,262228.5624
+01-02-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TUZA close price' 'TOPS close price' 'ASHO close price'
  'ENLT close price' 'SFET close price' 'LZNR close price'
  'KAFR close price' 'JBNK close price' 'ALD close price'
@@ -3027,8 +3027,8 @@
  'HRON close price' 'ILCO close price' 'CTPL5 close price'
  'OPAL close price' 'APLP close price' 'MYSZ close price'
  'UNCR close price' 'SRAC close price' 'AURA close price'
- 'CFX close price']"
-2007,3,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'CFX close price']",3.895040271,5.293178047,13.68960577,18.88362137,15.40976716,32.00895235,45.66491277,105.9166792,205.3866771,98214.96808
+01-03-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TUZA close price' 'TOPS close price' 'ASHO close price'
  'ENLT close price' 'SFET close price' 'LZNR close price'
  'CDEV close price' 'JBNK close price' 'KAFR close price'
@@ -3094,8 +3094,8 @@
  'ELTR close price' 'DLEKG close price' 'HRON close price'
  'CTPL5 close price' 'ILCO close price' 'OPAL close price'
  'UNCR close price' 'MYSZ close price' 'APLP close price'
- 'SRAC close price' 'AURA close price' 'CFX close price']"
-2007,4,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'SRAC close price' 'AURA close price' 'CFX close price']",7.735019803,15.41364074,33.12031516,65.84346358,71.48399207,126.6731352,172.9340467,189.5906791,584.3695743,214821.5612
+01-04-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TOPS close price' 'TUZA close price' 'ASHO close price'
  'ENLT close price' 'SFET close price' 'LZNR close price'
  'CDEV close price' 'CISY close price' 'JBNK close price'
@@ -3161,8 +3161,8 @@
  'ELTR close price' 'DLEKG close price' 'HRON close price'
  'CTPL5 close price' 'ILCO close price' 'OPAL close price'
  'UNCR close price' 'MYSZ close price' 'APLP close price'
- 'SRAC close price' 'AURA close price' 'CFX close price']"
-2007,5,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'SRAC close price' 'AURA close price' 'CFX close price']",6.573949886,18.01962269,25.99226905,56.79718488,54.45869014,107.4615125,110.4708745,217.667502,790.1983221,88811.49962
+01-05-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TOPS close price' 'TUZA close price' 'SFET close price'
  'ENLT close price' 'ASHO close price' 'CDEV close price'
  'CISY close price' 'LZNR close price' 'JBNK close price'
@@ -3228,8 +3228,8 @@
  'ELTR close price' 'DLEKG close price' 'HRON close price'
  'CTPL5 close price' 'ILCO close price' 'OPAL close price'
  'UNCR close price' 'MYSZ close price' 'APLP close price'
- 'SRAC close price' 'AURA close price' 'CFX close price']"
-2007,6,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'SRAC close price' 'AURA close price' 'CFX close price']",5.016589819,16.2680903,22.49615691,45.31727543,52.59350124,87.32998255,98.33481987,274.4505934,672.027749,74941.75876
+01-06-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TOPS close price' 'TUZA close price' 'SFET close price'
  'ENLT close price' 'ASHO close price' 'CISY close price'
  'CDEV close price' 'JBNK close price' 'LZNR close price'
@@ -3297,8 +3297,8 @@
  'DLEKG close price' 'SHOM close price' 'CTPL5 close price'
  'ILCO close price' 'OPAL close price' 'UNCR close price'
  'MYSZ close price' 'APLP close price' 'SRAC close price'
- 'AURA close price' 'CFX close price']"
-2007,7,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'AURA close price' 'CFX close price']",2.557304594,6.798200439,9.243366442,21.30020306,35.91615116,48.30331077,50.40880356,125.3175872,236.8808514,21200.93868
+01-07-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TOPS close price' 'TUZA close price' 'SFET close price'
  'ENLT close price' 'ASHO close price' 'CISY close price'
  'JBNK close price' 'CDEV close price' 'AICS close price'
@@ -3366,8 +3366,8 @@
  'DLEKG close price' 'SHOM close price' 'OPAL close price'
  'ILCO close price' 'CTPL5 close price' 'UNCR close price'
  'MYSZ close price' 'APLP close price' 'SRAC close price'
- 'AURA close price' 'CFX close price']"
-2007,8,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'AURA close price' 'CFX close price']",7.509451735,24.46466738,42.76398626,60.46534509,132.3106655,171.7460893,230.6658235,401.8701256,1104.237411,243579.7415
+01-08-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TOPS close price' 'TUZA close price' 'SFET close price'
  'ENLT close price' 'CISY close price' 'ASHO close price'
  'JBNK close price' 'CDEV close price' 'PCBT close price'
@@ -3434,8 +3434,8 @@
  'HRON close price' 'SHOM close price' 'DLEKG close price'
  'OPAL close price' 'ILCO close price' 'CTPL5 close price'
  'UNCR close price' 'MYSZ close price' 'APLP close price'
- 'SRAC close price' 'AURA close price' 'CFX close price']"
-2007,9,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'SRAC close price' 'AURA close price' 'CFX close price']",7.82622853,21.18033581,41.3180693,69.32793926,133.8207724,193.5344414,228.2641595,458.2030463,1303.940085,301911.3536
+01-09-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TOPS close price' 'TUZA close price' 'SFET close price'
  'CISY close price' 'ASHO close price' 'CDEV close price'
  'JBNK close price' 'INBR close price' 'UNIT close price'
@@ -3502,8 +3502,8 @@
  'HRON close price' 'SHOM close price' 'DLEKG close price'
  'UNCR close price' 'OPAL close price' 'ILCO close price'
  'CTPL5 close price' 'MYSZ close price' 'APLP close price'
- 'SRAC close price' 'AURA close price' 'CFX close price']"
-2007,10,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'SRAC close price' 'AURA close price' 'CFX close price']",5.528259282,16.69604152,25.98436528,55.90232964,88.70303677,126.0338425,133.7755799,313.0704887,750.7489699,238882.9334
+01-10-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TOPS close price' 'TUZA close price' 'SFET close price'
  'CISY close price' 'ASHO close price' 'CDEV close price'
  'JBNK close price' 'INBR close price' 'BEZQ close price'
@@ -3570,8 +3570,8 @@
  'HRON close price' 'SHOM close price' 'DLEKG close price'
  'UNCR close price' 'OPAL close price' 'CTPL5 close price'
  'ILCO close price' 'MYSZ close price' 'APLP close price'
- 'SRAC close price' 'AURA close price' 'CFX close price']"
-2007,11,"['PEN close price' 'LEOF close price' 'INFR close price'
+ 'SRAC close price' 'AURA close price' 'CFX close price']",2.02911082,10.23352484,13.98105466,23.93589458,34.44333635,65.00777065,69.83061713,162.9230943,310.2030998,159773.0919
+01-11-07,"['PEN close price' 'LEOF close price' 'INFR close price'
  'TOPS close price' 'SFET close price' 'TUZA close price'
  'JBNK close price' 'ASHO close price' 'CISY close price'
  'CDEV close price' 'INBR close price' 'BEZQ close price'
@@ -3641,8 +3641,8 @@
  'DLEKG close price' 'UNCR close price' 'OPAL close price'
  'CTPL5 close price' 'ILCO close price' 'MYSZ close price'
  'APLP close price' 'SRAC close price' 'AURA close price'
- 'CFX close price']"
-2007,12,"['LEOF close price' 'INFR close price' 'TOPS close price'
+ 'CFX close price']",6.643683101,18.35317054,30.50186869,50.37281585,59.02444885,83.53934628,103.6414712,246.8450226,450.1369654,99976.15565
+01-12-07,"['LEOF close price' 'INFR close price' 'TOPS close price'
  'SFET close price' 'TUZA close price' 'CISY close price'
  'ELAL close price' 'BIRM close price' 'JBNK close price'
  'ASHO close price' 'INBR close price' 'CDEV close price'
@@ -3719,8 +3719,8 @@
  'DLEKG close price' 'OPAL close price' 'UNCR close price'
  'CTPL5 close price' 'ILCO close price' 'MYSZ close price'
  'SRAC close price' 'APLP close price' 'AURA close price'
- 'CFX close price']"
-2008,1,"['LEOF close price' 'INFR close price' 'TOPS close price'
+ 'CFX close price']",6.093519791,5.956885906,12.30794909,17.21673705,24.7921684,34.22899939,60.75342936,78.5966627,149.8736242,71042.4542
+01-01-08,"['LEOF close price' 'INFR close price' 'TOPS close price'
  'SFET close price' 'TUZA close price' 'ELAL close price'
  'JBNK close price' 'BIRM close price' 'CISY close price'
  'INBR close price' 'FRSX close price' 'ASHO close price'
@@ -3795,8 +3795,8 @@
  'CSURE close price' 'DLEKG close price' 'OPAL close price'
  'UNCR close price' 'CTPL5 close price' 'ILCO close price'
  'MYSZ close price' 'SRAC close price' 'APLP close price'
- 'AURA close price' 'CFX close price']"
-2008,2,"['LEOF close price' 'INFR close price' 'TOPS close price'
+ 'AURA close price' 'CFX close price']",7.650225401,22.40962063,18.50330643,34.61307152,47.15152881,89.81272064,88.01879849,188.2247146,208.7109658,41314.91657
+01-02-08,"['LEOF close price' 'INFR close price' 'TOPS close price'
  'SFET close price' 'TUZA close price' 'ELAL close price'
  'INBR close price' 'BIRM close price' 'JBNK close price'
  'FRSX close price' 'CISY close price' 'BEZQ close price'
@@ -3869,8 +3869,8 @@
  'ELTR close price' 'CSURE close price' 'DLEKG close price'
  'OPAL close price' 'UNCR close price' 'CTPL5 close price'
  'ILCO close price' 'MYSZ close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2008,3,"['LEOF close price' 'INFR close price' 'TOPS close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",5.117525651,17.44505988,18.5989615,33.69872705,33.98826723,67.697389,95.07740705,123.4415174,300.6147413,113503.4014
+01-03-08,"['LEOF close price' 'INFR close price' 'TOPS close price'
  'SFET close price' 'TUZA close price' 'ELAL close price'
  'INBR close price' 'BEZQ close price' 'FRSX close price'
  'JBNK close price' 'LZNR close price' 'CISY close price'
@@ -3945,8 +3945,8 @@
  'ELTR close price' 'CSURE close price' 'DLEKG close price'
  'UNCR close price' 'OPAL close price' 'CTPL5 close price'
  'ILCO close price' 'MYSZ close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2008,4,"['LEOF close price' 'INFR close price' 'TOPS close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",4.879467276,12.25860055,13.47531986,23.97715577,38.47502733,40.44626649,89.93990693,79.89724048,193.5303767,60193.44192
+01-04-08,"['LEOF close price' 'INFR close price' 'TOPS close price'
  'SFET close price' 'TUZA close price' 'ELAL close price'
  'INBR close price' 'FRSX close price' 'BEZQ close price'
  'LZNR close price' 'JBNK close price' 'ASHO close price'
@@ -4022,8 +4022,8 @@
  'ELTR close price' 'CSURE close price' 'DLEKG close price'
  'UNCR close price' 'OPAL close price' 'CTPL5 close price'
  'ILCO close price' 'MYSZ close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2008,5,"['LEOF close price' 'INFR close price' 'TOPS close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",9.877867017,27.29805829,27.30984816,58.98164413,93.38005669,77.55634854,140.1461474,216.1130242,380.7014811,116685.0669
+01-05-08,"['LEOF close price' 'INFR close price' 'TOPS close price'
  'TUZA close price' 'SFET close price' 'INBR close price'
  'FRSX close price' 'BEZQ close price' 'LZNR close price'
  'ELAL close price' 'JBNK close price' 'STCM close price'
@@ -4097,8 +4097,8 @@
  'ELTR close price' 'CSURE close price' 'DLEKG close price'
  'UNCR close price' 'CTPL5 close price' 'OPAL close price'
  'ILCO close price' 'MYSZ close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2008,6,"['LEOF close price' 'INFR close price' 'TOPS close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",2.891459023,7.054139756,9.491561535,15.64767661,25.54761385,26.54451886,57.25531232,71.51110577,147.0949521,34709.36096
+01-06-08,"['LEOF close price' 'INFR close price' 'TOPS close price'
  'TUZA close price' 'SFET close price' 'INBR close price'
  'FRSX close price' 'LZNR close price' 'BEZQ close price'
  'JBNK close price' 'STCM close price' 'ROBO close price'
@@ -4173,8 +4173,8 @@
  'HRON close price' 'CSURE close price' 'UNCR close price'
  'DLEKG close price' 'CTPL5 close price' 'OPAL close price'
  'ILCO close price' 'MYSZ close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2008,7,"['LEOF close price' 'INFR close price' 'TOPS close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",18.58315949,47.14917694,81.13142992,109.0041407,185.7565875,260.8132071,315.9425798,428.9890091,1141.634637,253138.2293
+01-07-08,"['LEOF close price' 'INFR close price' 'TOPS close price'
  'TUZA close price' 'SFET close price' 'FRSX close price'
  'INBR close price' 'BEZQ close price' 'STCM close price'
  'LZNR close price' 'JBNK close price' 'ROBO close price'
@@ -4251,8 +4251,8 @@
  'SHOM close price' 'UNCR close price' 'CSURE close price'
  'CTPL5 close price' 'DLEKG close price' 'OPAL close price'
  'ILCO close price' 'MYSZ close price' 'SRAC close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2008,8,"['LEOF close price' 'INFR close price' 'ENLT close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",5.134999774,8.582800125,21.37242863,29.6562453,36.97129399,47.70795467,96.2982379,116.4400114,301.690622,68051.98421
+01-08-08,"['LEOF close price' 'INFR close price' 'ENLT close price'
  'TUZA close price' 'TOPS close price' 'SFET close price'
  'ROBO close price' 'FRSX close price' 'INBR close price'
  'STCM close price' 'BEZQ close price' 'JBNK close price'
@@ -4330,8 +4330,8 @@
  'CSURE close price' 'CTPL5 close price' 'DLEKG close price'
  'OPAL close price' 'ILCO close price' 'MYSZ close price'
  'SRAC close price' 'APLP close price' 'AURA close price'
- 'CFX close price']"
-2008,9,"['LEOF close price' 'INFR close price' 'ENLT close price'
+ 'CFX close price']",3.705750792,7.410430001,11.50814214,17.14929954,31.07712867,42.06568032,53.55190766,113.4735069,188.9714825,6796.278813
+01-09-08,"['LEOF close price' 'INFR close price' 'ENLT close price'
  'TUZA close price' 'TOPS close price' 'SFET close price'
  'ROBO close price' 'INBR close price' 'FRSX close price'
  'STCM close price' 'BEZQ close price' 'JBNK close price'
@@ -4408,8 +4408,8 @@
  'SHOM close price' 'UNCR close price' 'CSURE close price'
  'CTPL5 close price' 'DLEKG close price' 'OPAL close price'
  'ILCO close price' 'MYSZ close price' 'APLP close price'
- 'SRAC close price' 'AURA close price' 'CFX close price']"
-2008,10,"['LEOF close price' 'INFR close price' 'ENLT close price'
+ 'SRAC close price' 'AURA close price' 'CFX close price']",5.9723133,15.25844207,20.78693336,33.66145265,47.5595646,64.81874726,104.1578326,179.3671451,324.4798576,60488.38437
+01-10-08,"['LEOF close price' 'INFR close price' 'ENLT close price'
  'TOPS close price' 'TUZA close price' 'SFET close price'
  'ROBO close price' 'INBR close price' 'FRSX close price'
  'MRHL close price' 'STCM close price' 'ARNA close price'
@@ -4487,8 +4487,8 @@
  'UNCR close price' 'CSURE close price' 'CTPL5 close price'
  'DLEKG close price' 'OPAL close price' 'ILCO close price'
  'MYSZ close price' 'APLP close price' 'SRAC close price'
- 'AURA close price' 'CFX close price']"
-2008,11,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'AURA close price' 'CFX close price']",12.78884996,33.26681338,44.45157196,83.61162126,113.4977462,200.1757332,195.2852172,400.5710506,782.3923328,58246.13711
+01-11-08,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'TOPS close price' 'TUZA close price' 'SFET close price'
  'INBR close price' 'ROBO close price' 'FRSX close price'
  'MRHL close price' 'AVLN close price' 'STCM close price'
@@ -4573,8 +4573,8 @@
  'UNCR close price' 'CTPL5 close price' 'DLEKG close price'
  'OPAL close price' 'ILCO close price' 'MYSZ close price'
  'APLP close price' 'SRAC close price' 'INCR close price'
- 'AURA close price' 'CFX close price']"
-2008,12,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'AURA close price' 'CFX close price']",8.295536896,20.98645785,39.7390808,59.26040279,118.867741,186.9427686,198.8059594,415.741159,756.7676531,80489.35285
+01-12-08,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'TOPS close price' 'INBR close price' 'AVLN close price'
  'MRHL close price' 'SFET close price' 'FRSX close price'
  'TUZA close price' 'AICS close price' 'ROBO close price'
@@ -4659,8 +4659,8 @@
  'UNCR close price' 'DLEKG close price' 'OPAL close price'
  'MYSZ close price' 'ILCO close price' 'APLP close price'
  'SRAC close price' 'INCR close price' 'AURA close price'
- 'CFX close price']"
-2009,1,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'CFX close price']",15.6499368,41.92275029,69.4578353,118.0344736,219.4742444,328.9576434,395.4251941,707.9676456,1385.900736,198508.7679
+01-01-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'TOPS close price' 'AVLN close price' 'INBR close price'
  'MRHL close price' 'FRSX close price' 'SFET close price'
  'AICS close price' 'TUZA close price' 'ARNA close price'
@@ -4747,8 +4747,8 @@
  'DLEKG close price' 'UNCR close price' 'OPAL close price'
  'MYSZ close price' 'ILCO close price' 'APLP close price'
  'SRAC close price' 'INCR close price' 'AURA close price'
- 'CFX close price']"
-2009,2,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'CFX close price']",5.48350149,15.97220982,23.53137117,31.58028927,54.50249104,104.1835217,119.4318717,214.4395529,262.500853,34292.62236
+01-02-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'TOPS close price' 'AVLN close price' 'INBR close price'
  'MRHL close price' 'FRSX close price' 'AICS close price'
  'SFET close price' 'TUZA close price' 'CISY close price'
@@ -4833,8 +4833,8 @@
  'DLEKG close price' 'UNCR close price' 'OPAL close price'
  'MYSZ close price' 'ILCO close price' 'APLP close price'
  'SRAC close price' 'INCR close price' 'AURA close price'
- 'CFX close price']"
-2009,3,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'CFX close price']",16.75634416,44.32345585,81.91622942,109.5218049,185.875372,261.6619214,437.1019362,651.2582423,1139.442033,155322.262
+01-03-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'TOPS close price' 'AVLN close price' 'INBR close price'
  'FRSX close price' 'MRHL close price' 'AICS close price'
  'SFET close price' 'CISY close price' 'TUZA close price'
@@ -4921,8 +4921,8 @@
  'DLEKG close price' 'UNCR close price' 'MYSZ close price'
  'OPAL close price' 'ILCO close price' 'SRAC close price'
  'APLP close price' 'INCR close price' 'AURA close price'
- 'CFX close price']"
-2009,4,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'CFX close price']",14.89020561,40.5947851,78.71081312,100.5130499,176.3844031,272.3623289,401.6025376,574.1947894,1214.370287,129781.3733
+01-04-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'TOPS close price' 'AVLN close price' 'INBR close price'
  'FRSX close price' 'AICS close price' 'MRHL close price'
  'LAHAV close price' 'SFET close price' 'CISY close price'
@@ -5007,8 +5007,8 @@
  'CSURE close price' 'CTPL5 close price' 'DLEKG close price'
  'UNCR close price' 'MYSZ close price' 'OPAL close price'
  'ILCO close price' 'SRAC close price' 'APLP close price'
- 'INCR close price' 'AURA close price' 'CFX close price']"
-2009,5,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'INCR close price' 'AURA close price' 'CFX close price']",6.544266777,21.08120365,25.76856105,54.30610009,74.32568242,114.2855007,169.0126266,229.2862974,464.3300126,57464.76556
+01-05-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'TOPS close price' 'AVLN close price' 'AICS close price'
  'INBR close price' 'FRSX close price' 'MRHL close price'
  'LAHAV close price' 'ARNA close price' 'ALMD close price'
@@ -5093,8 +5093,8 @@
  'CSURE close price' 'DLEKG close price' 'CTPL5 close price'
  'UNCR close price' 'MYSZ close price' 'OPAL close price'
  'ILCO close price' 'SRAC close price' 'INCR close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2009,6,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",9.970558059,30.32001954,48.05112957,52.19548616,152.7578095,157.4793419,295.9453357,394.5285971,757.5286624,91820.84332
+01-06-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'TOPS close price' 'AVLN close price' 'AICS close price'
  'INBR close price' 'FRSX close price' 'MRHL close price'
  'LAHAV close price' 'ARNA close price' 'TUZA close price'
@@ -5180,8 +5180,8 @@
  'CSURE close price' 'CTPL5 close price' 'DLEKG close price'
  'UNCR close price' 'MYSZ close price' 'OPAL close price'
  'ILCO close price' 'SRAC close price' 'INCR close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2009,7,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",5.12505964,12.43324966,18.75110352,26.98357615,49.04205907,68.15721766,90.15379674,169.5932394,238.1016576,46685.45836
+01-07-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'AVLN close price' 'TOPS close price' 'AICS close price'
  'FRSX close price' 'INBR close price' 'MRHL close price'
  'TUZA close price' 'LAHAV close price' 'ARNA close price'
@@ -5266,8 +5266,8 @@
  'CTPL5 close price' 'DLEKG close price' 'UNCR close price'
  'MYSZ close price' 'OPAL close price' 'ILCO close price'
  'SRAC close price' 'INCR close price' 'APLP close price'
- 'AURA close price' 'CFX close price']"
-2009,8,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'AURA close price' 'CFX close price']",3.865440319,10.47051029,15.72551867,24.098283,44.91659835,62.38757674,80.2826938,146.216627,237.0556323,52263.33717
+01-08-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'AVLN close price' 'TOPS close price' 'AICS close price'
  'FRSX close price' 'INBR close price' 'TUZA close price'
  'SFET close price' 'MRHL close price' 'CISY close price'
@@ -5352,8 +5352,8 @@
  'CSURE close price' 'CTPL5 close price' 'UNCR close price'
  'DLEKG close price' 'MYSZ close price' 'OPAL close price'
  'ILCO close price' 'SRAC close price' 'INCR close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2009,9,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",8.725308886,28.8757569,54.25647575,76.59534575,110.61711,214.9708683,256.2078848,472.4814124,913.6318431,93812.58127
+01-09-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'AVLN close price' 'TOPS close price' 'AICS close price'
  'FRSX close price' 'SFET close price' 'INBR close price'
  'TUZA close price' 'CISY close price' 'MRHL close price'
@@ -5439,8 +5439,8 @@
  'CSURE close price' 'UNCR close price' 'CTPL5 close price'
  'DLEKG close price' 'MYSZ close price' 'OPAL close price'
  'ILCO close price' 'SRAC close price' 'INCR close price'
- 'APLP close price' 'AURA close price' 'CFX close price']"
-2009,10,"['INFR close price' 'LEOF close price' 'ENLT close price'
+ 'APLP close price' 'AURA close price' 'CFX close price']",9.463188899,36.36009445,61.15228464,102.328402,136.6869114,246.4214545,329.8547866,575.3531798,1213.188843,133215.9426
+01-10-09,"['INFR close price' 'LEOF close price' 'ENLT close price'
  'AICS close price' 'TOPS close price' 'AVLN close price'
  'SFET close price' 'TUZA close price' 'CISY close price'
  'FRSX close price' 'INBR close price' 'ELAL close price'
@@ -5524,8 +5524,8 @@
  'UNCR close price' 'CTPL5 close price' 'DLEKG close price'
  'OPAL close price' 'ILCO close price' 'SRAC close price'
  'INCR close price' 'AURA close price' 'APLP close price'
- 'CFX close price']"
-2009,11,"['INFR close price' 'LEOF close price' 'AICS close price'
+ 'CFX close price']",1.567974351,4.02656479,7.995175649,15.49111418,13.32790252,29.90086597,52.88082697,60.43459472,165.5284259,51100.85274
+01-11-09,"['INFR close price' 'LEOF close price' 'AICS close price'
  'ENLT close price' 'ELAL close price' 'SFET close price'
  'TOPS close price' 'AVLN close price' 'TTAM close price'
  'TUZA close price' 'CISY close price' 'INBR close price'
@@ -5607,8 +5607,8 @@
  'MYSZ close price' 'ELTR close price' 'PZOL close price'
  'CTPL5 close price' 'DLEKG close price' 'OPAL close price'
  'SRAC close price' 'INCR close price' 'ILCO close price'
- 'AURA close price' 'APLP close price' 'CFX close price']"
-2009,12,"['INFR close price' 'LEOF close price' 'AICS close price'
+ 'AURA close price' 'APLP close price' 'CFX close price']",10.19027516,35.19755676,66.57164777,105.5764225,135.4939287,242.3246171,411.9240112,636.6147889,1410.838579,136584.6645
+01-12-09,"['INFR close price' 'LEOF close price' 'AICS close price'
  'ENLT close price' 'ELAL close price' 'TOPS close price'
  'SFET close price' 'AVLN close price' 'TUZA close price'
  'CISY close price' 'INBR close price' 'ROBO close price'
@@ -5693,8 +5693,8 @@
  'CTPL5 close price' 'DLEKG close price' 'OPAL close price'
  'SRAC close price' 'ILCO close price' 'INCR close price'
  'SNCM close price' 'AURA close price' 'APLP close price'
- 'CFX close price']"
-2010,1,"['LEOF close price' 'AICS close price' 'ENLT close price'
+ 'CFX close price']",10.0717832,32.18189492,76.93445615,89.62103384,153.0980902,236.3375571,440.6652637,726.2960333,1529.748971,145563.3018
+01-01-10,"['LEOF close price' 'AICS close price' 'ENLT close price'
  'ELAL close price' 'TOPS close price' 'SFET close price'
  'AVLN close price' 'TUZA close price' 'CISY close price'
  'ARNA close price' 'ROBO close price' 'INBR close price'
@@ -5779,8 +5779,8 @@
  'DLEKG close price' 'CTPL5 close price' 'OPAL close price'
  'SRAC close price' 'ILCO close price' 'INCR close price'
  'AURA close price' 'SNCM close price' 'APLP close price'
- 'CFX close price']"
-2010,2,"['LEOF close price' 'AICS close price' 'ELAL close price'
+ 'CFX close price']",2.100795265,7.449719996,12.71710836,17.03568716,21.43192074,47.55583279,79.014372,101.2216465,191.0646636,69268.23533
+01-02-10,"['LEOF close price' 'AICS close price' 'ELAL close price'
  'ENLT close price' 'TOPS close price' 'TUZA close price'
  'SFET close price' 'AVLN close price' 'CISY close price'
  'ARNA close price' 'ROBO close price' 'INBR close price'
@@ -5864,8 +5864,8 @@
  'OPAL close price' 'PTCH close price' 'CTPL5 close price'
  'SRAC close price' 'ILCO close price' 'INCR close price'
  'AURA close price' 'SNCM close price' 'APLP close price'
- 'CFX close price']"
-2010,3,"['LEOF close price' 'AICS close price' 'TOPS close price'
+ 'CFX close price']",5.314383571,20.60546776,30.72312123,35.41241424,65.82493727,87.33629698,147.4492949,277.5079316,548.1473942,675764.8129
+01-03-10,"['LEOF close price' 'AICS close price' 'TOPS close price'
  'ENLT close price' 'ELAL close price' 'TUZA close price'
  'SFET close price' 'AVLN close price' 'CISY close price'
  'ARNA close price' 'INBR close price' 'MRHL close price'
@@ -5950,8 +5950,8 @@
  'WSMK close price' 'DLEKG close price' 'OPAL close price'
  'PTCH close price' 'CTPL5 close price' 'SRAC close price'
  'ILCO close price' 'INCR close price' 'AURA close price'
- 'APLP close price' 'SNCM close price' 'CFX close price']"
-2010,4,"['LEOF close price' 'AICS close price' 'TUZA close price'
+ 'APLP close price' 'SNCM close price' 'CFX close price']",5.107796222,14.4024155,27.73853914,46.20083604,71.13496198,78.67876652,198.8698726,251.3696584,458.4018616,1408481.793
+01-04-10,"['LEOF close price' 'AICS close price' 'TUZA close price'
  'ENLT close price' 'TOPS close price' 'ELAL close price'
  'SFET close price' 'AVLN close price' 'CISY close price'
  'ARNA close price' 'INBR close price' 'MRHL close price'
@@ -6038,8 +6038,8 @@
  'WSMK close price' 'CTPL5 close price' 'PTCH close price'
  'SRAC close price' 'ILCO close price' 'INCR close price'
  'AURA close price' 'APLP close price' 'SNCM close price'
- 'CFX close price']"
-2010,5,"['LEOF close price' 'AICS close price' 'TUZA close price'
+ 'CFX close price']",2.219401316,8.698478756,13.54465975,18.74578968,26.11454631,44.53442216,76.07885297,138.7089321,238.1155077,1434958.068
+01-05-10,"['LEOF close price' 'AICS close price' 'TUZA close price'
  'ENLT close price' 'SFET close price' 'TOPS close price'
  'ELAL close price' 'AVLN close price' 'MRHL close price'
  'ARNA close price' 'CISY close price' 'INBR close price'
@@ -6125,8 +6125,8 @@
  'WSMK close price' 'CTPL5 close price' 'PTCH close price'
  'SRAC close price' 'ILCO close price' 'INCR close price'
  'AURA close price' 'SNCM close price' 'APLP close price'
- 'WTS close price' 'CFX close price']"
-2010,6,"['LEOF close price' 'AICS close price' 'TUZA close price'
+ 'WTS close price' 'CFX close price']",4.296506349,19.14656988,24.5640665,36.09855927,56.15700055,93.25514299,177.9489648,268.5474715,585.3514577,1494865.046
+01-06-10,"['LEOF close price' 'AICS close price' 'TUZA close price'
  'ENLT close price' 'SFET close price' 'TOPS close price'
  'ELAL close price' 'AVLN close price' 'MRHL close price'
  'ARNA close price' 'CISY close price' 'INBR close price'
@@ -6210,8 +6210,8 @@
  'WSMK close price' 'CTPL5 close price' 'PTCH close price'
  'SRAC close price' 'ILCO close price' 'INCR close price'
  'AURA close price' 'SNCM close price' 'APLP close price'
- 'WTS close price' 'CFX close price']"
-2010,7,"['LEOF close price' 'AICS close price' 'TUZA close price'
+ 'WTS close price' 'CFX close price']",3.924747476,16.60102068,24.41695267,50.85666877,65.59486844,71.73667675,146.0214062,215.4354204,341.7804896,2745985.68
+01-07-10,"['LEOF close price' 'AICS close price' 'TUZA close price'
  'TOPS close price' 'SFET close price' 'ENLT close price'
  'AVLN close price' 'ELAL close price' 'MRHL close price'
  'ARNA close price' 'INBR close price' 'CISY close price'
@@ -6296,8 +6296,8 @@
  'CTPL5 close price' 'PTCH close price' 'SRAC close price'
  'ILCO close price' 'UNCR close price' 'INCR close price'
  'AURA close price' 'SNCM close price' 'APLP close price'
- 'WTS close price' 'CFX close price']"
-2010,8,"['LEOF close price' 'TUZA close price' 'AICS close price'
+ 'WTS close price' 'CFX close price']",6.396511469,19.14709564,42.45621258,42.21276229,89.42345307,117.8418469,234.3621045,346.3460713,655.3950946,1027779.754
+01-08-10,"['LEOF close price' 'TUZA close price' 'AICS close price'
  'TOPS close price' 'AVLN close price' 'SFET close price'
  'ENLT close price' 'ELAL close price' 'MRHL close price'
  'ARNA close price' 'INBR close price' 'CISY close price'
@@ -6382,8 +6382,8 @@
  'CTPL5 close price' 'ILCO close price' 'SRAC close price'
  'PTCH close price' 'UNCR close price' 'INCR close price'
  'AURA close price' 'SNCM close price' 'APLP close price'
- 'CFX close price' 'WTS close price']"
-2010,9,"['LEOF close price' 'TUZA close price' 'AICS close price'
+ 'CFX close price' 'WTS close price']",6.196794552,18.79866394,21.77851111,53.54241209,71.20969797,123.8752644,159.0167566,298.5014537,479.0364745,2241517.517
+01-09-10,"['LEOF close price' 'TUZA close price' 'AICS close price'
  'TOPS close price' 'SFET close price' 'AVLN close price'
  'ENLT close price' 'MRHL close price' 'ELAL close price'
  'ARNA close price' 'DNA close price' 'INBR close price'
@@ -6468,8 +6468,8 @@
  'OPAL close price' 'WSMK close price' 'CTPL5 close price'
  'ILCO close price' 'SRAC close price' 'PTCH close price'
  'UNCR close price' 'INCR close price' 'AURA close price'
- 'SNCM close price' 'APLP close price' 'CFX close price' 'WTS close price']"
-2010,10,"['LEOF close price' 'TUZA close price' 'AICS close price'
+ 'SNCM close price' 'APLP close price' 'CFX close price' 'WTS close price']",1.682535095,7.315226212,8.244888664,21.13478478,17.9458259,51.62607858,75.72337541,99.92867496,167.883759,2634912.934
+01-10-10,"['LEOF close price' 'TUZA close price' 'AICS close price'
  'TOPS close price' 'AVLN close price' 'SFET close price'
  'ENLT close price' 'MRHL close price' 'DNA close price'
  'ELAL close price' 'ARNA close price' 'MYDS close price'
@@ -6553,8 +6553,8 @@
  'OPAL close price' 'WSMK close price' 'ILCO close price'
  'CTPL5 close price' 'SRAC close price' 'PTCH close price'
  'UNCR close price' 'INCR close price' 'AURA close price'
- 'SNCM close price' 'APLP close price' 'CFX close price' 'WTS close price']"
-2010,11,"['LEOF close price' 'TUZA close price' 'AICS close price'
+ 'SNCM close price' 'APLP close price' 'CFX close price' 'WTS close price']",5.290829771,19.49630479,25.38116758,48.20027186,70.44640257,100.3156855,182.1935373,285.7402503,565.7899536,3150450.063
+01-11-10,"['LEOF close price' 'TUZA close price' 'AICS close price'
  'TOPS close price' 'AVLN close price' 'DNA close price'
  'MRHL close price' 'SFET close price' 'MYDS close price'
  'ENLT close price' 'ARNA close price' 'AVRT close price'
@@ -6636,8 +6636,8 @@
  'OPAL close price' 'WSMK close price' 'ILCO close price'
  'CTPL5 close price' 'SRAC close price' 'PTCH close price'
  'UNCR close price' 'INCR close price' 'AURA close price'
- 'SNCM close price' 'APLP close price' 'CFX close price' 'WTS close price']"
-2010,12,"['LEOF close price' 'TUZA close price' 'TOPS close price'
+ 'SNCM close price' 'APLP close price' 'CFX close price' 'WTS close price']",2.652938602,9.694731857,10.37355152,25.37071369,28.22624133,49.81589876,58.95840048,110.5051473,163.6278487,105143.2055
+01-12-10,"['LEOF close price' 'TUZA close price' 'TOPS close price'
  'AICS close price' 'AVLN close price' 'MYDS close price'
  'DNA close price' 'MRHL close price' 'ARNA close price'
  'AVRT close price' 'EMCO close price' 'ENLT close price'
@@ -6720,8 +6720,8 @@
  'WSMK close price' 'CTPL5 close price' 'ILCO close price'
  'PTCH close price' 'SRAC close price' 'SNCM close price'
  'INCR close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2011,1,"['LEOF close price' 'TUZA close price' 'TOPS close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",6.313397533,17.624188,29.12829925,36.95090332,55.33275276,92.09320974,173.5447084,374.8707586,450.9259049,2185648.659
+01-01-11,"['LEOF close price' 'TUZA close price' 'TOPS close price'
  'AICS close price' 'AVLN close price' 'DNA close price'
  'MYDS close price' 'MRHL close price' 'ARNA close price'
  'EMCO close price' 'AVRT close price' 'ALMD close price'
@@ -6807,8 +6807,8 @@
  'WSMK close price' 'CTPL5 close price' 'PTCH close price'
  'ILCO close price' 'SRAC close price' 'SNCM close price'
  'INCR close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2011,2,"['LEOF close price' 'TUZA close price' 'TOPS close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",1.965706963,5.297890939,7.140318282,8.458271763,29.32394221,38.15003434,41.06527879,71.11719276,135.4431098,7761.700379
+01-02-11,"['LEOF close price' 'TUZA close price' 'TOPS close price'
  'AICS close price' 'AVLN close price' 'DNA close price'
  'ARNA close price' 'MYDS close price' 'MRHL close price'
  'ALMD close price' 'EMCO close price' 'AVRT close price'
@@ -6892,8 +6892,8 @@
  'WSMK close price' 'PTCH close price' 'ILCO close price'
  'SRAC close price' 'SNCM close price' 'INCR close price'
  'UNCR close price' 'AURA close price' 'APLP close price'
- 'CFX close price' 'WTS close price']"
-2011,3,"['LEOF close price' 'TUZA close price' 'TOPS close price'
+ 'CFX close price' 'WTS close price']",3.772476613,11.19873615,20.13570652,32.9316871,60.60439633,76.50920133,118.3683747,251.9354669,363.5987898,890029.7067
+01-03-11,"['LEOF close price' 'TUZA close price' 'TOPS close price'
  'AVLN close price' 'AICS close price' 'DNA close price'
  'ARNA close price' 'MYDS close price' 'EMCO close price'
  'MRHL close price' 'ALMD close price' 'INBR close price'
@@ -6976,8 +6976,8 @@
  'CTPL5 close price' 'WSMK close price' 'PTCH close price'
  'ILCO close price' 'SRAC close price' 'SNCM close price'
  'INCR close price' 'AURA close price' 'UNCR close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2011,4,"['LEOF close price' 'TUZA close price' 'TOPS close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",3.104227068,13.38170457,13.42306213,29.75424331,50.93951407,76.47522899,87.20956318,237.173678,375.8892649,225598.2218
+01-04-11,"['LEOF close price' 'TUZA close price' 'TOPS close price'
  'AICS close price' 'AVLN close price' 'DNA close price'
  'EMCO close price' 'INBR close price' 'ARNA close price'
  'ALMD close price' 'MYDS close price' 'ISCN close price'
@@ -7060,8 +7060,8 @@
  'UNVO close price' 'CTPL5 close price' 'WSMK close price'
  'PTCH close price' 'ILCO close price' 'SRAC close price'
  'INCR close price' 'SNCM close price' 'UNCR close price'
- 'AURA close price' 'APLP close price' 'CFX close price' 'WTS close price']"
-2011,5,"['LEOF close price' 'TOPS close price' 'TUZA close price'
+ 'AURA close price' 'APLP close price' 'CFX close price' 'WTS close price']",1.029474499,5.387971665,6.216146538,14.36527262,24.40653653,37.5920381,58.91767725,127.1343142,297.7988383,113851.5072
+01-05-11,"['LEOF close price' 'TOPS close price' 'TUZA close price'
  'AICS close price' 'AVLN close price' 'DNA close price'
  'INBR close price' 'EMCO close price' 'ARNA close price'
  'GOHO close price' 'ALMD close price' 'MYDS close price'
@@ -7145,8 +7145,8 @@
  'UNVO close price' 'WSMK close price' 'CTPL5 close price'
  'PTCH close price' 'SRAC close price' 'ILCO close price'
  'INCR close price' 'SNCM close price' 'UNCR close price'
- 'AURA close price' 'APLP close price' 'CFX close price' 'WTS close price']"
-2011,6,"['LEOF close price' 'TOPS close price' 'AICS close price'
+ 'AURA close price' 'APLP close price' 'CFX close price' 'WTS close price']",7.276616814,23.62675662,42.60526806,70.31395797,92.90474325,210.0946388,223.7158569,500.194585,1187.170269,1035919.558
+01-06-11,"['LEOF close price' 'TOPS close price' 'AICS close price'
  'TUZA close price' 'DNA close price' 'AVLN close price'
  'INBR close price' 'EMCO close price' 'ENLT close price'
  'GOHO close price' 'ALMD close price' 'ARNA close price'
@@ -7229,8 +7229,8 @@
  'WSMK close price' 'PTCH close price' 'CTPL5 close price'
  'SRAC close price' 'ILCO close price' 'INCR close price'
  'SNCM close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2011,7,"['LEOF close price' 'TOPS close price' 'AICS close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",2.286322574,5.468648982,11.31304032,17.64464153,31.1655721,35.71957242,64.4568488,151.9699885,211.5049213,11068.01198
+01-07-11,"['LEOF close price' 'TOPS close price' 'AICS close price'
  'TUZA close price' 'DNA close price' 'AVLN close price'
  'INBR close price' 'ALMD close price' 'EMCO close price'
  'ENLT close price' 'GOHO close price' 'DRSL close price'
@@ -7315,8 +7315,8 @@
  'WSMK close price' 'PTCH close price' 'CTPL5 close price'
  'SRAC close price' 'ILCO close price' 'INCR close price'
  'SNCM close price' 'UNCR close price' 'AURA close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2011,8,"['LEOF close price' 'TOPS close price' 'AICS close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",4.20385843,14.35848878,20.54078535,39.13641699,52.54506526,92.02840276,152.7876032,222.1392383,469.9403038,1081372.294
+01-08-11,"['LEOF close price' 'TOPS close price' 'AICS close price'
  'TUZA close price' 'AVLN close price' 'DNA close price'
  'GOHO close price' 'EMCO close price' 'ALMD close price'
  'INBR close price' 'ENLT close price' 'ROBO close price'
@@ -7399,8 +7399,8 @@
  'OPAL close price' 'WSMK close price' 'CTPL5 close price'
  'PTCH close price' 'SRAC close price' 'ILCO close price'
  'INCR close price' 'UNCR close price' 'SNCM close price'
- 'AURA close price' 'APLP close price' 'CFX close price' 'WTS close price']"
-2011,9,"['LEOF close price' 'TOPS close price' 'AICS close price'
+ 'AURA close price' 'APLP close price' 'CFX close price' 'WTS close price']",3.460205777,10.84690292,22.21236007,29.77238025,74.33240977,85.23956179,147.824318,292.1551981,513.748654,119473.2904
+01-09-11,"['LEOF close price' 'TOPS close price' 'AICS close price'
  'DNA close price' 'AVLN close price' 'TUZA close price'
  'INBR close price' 'GOHO close price' 'EMCO close price'
  'ROBO close price' 'ALMD close price' 'ENLT close price'
@@ -7483,8 +7483,8 @@
  'OPAL close price' 'SRAC close price' 'CTPL5 close price'
  'PTCH close price' 'ILCO close price' 'INCR close price'
  'UNCR close price' 'SNCM close price' 'AURA close price'
- 'APLP close price' 'WTS close price' 'CFX close price']"
-2011,10,"['LEOF close price' 'TOPS close price' 'AICS close price'
+ 'APLP close price' 'WTS close price' 'CFX close price']",7.213026155,22.31462193,53.33927191,85.22568881,127.6738838,162.4690719,333.9778819,593.7843749,1407.05863,122165.589
+01-10-11,"['LEOF close price' 'TOPS close price' 'AICS close price'
  'DNA close price' 'AVLN close price' 'TUZA close price'
  'ALMD close price' 'EMTC close price' 'ROBO close price'
  'GOHO close price' 'ENDY close price' 'INBR close price'
@@ -7567,8 +7567,8 @@
  'SRAC close price' 'WSMK close price' 'OPAL close price'
  'CTPL5 close price' 'PTCH close price' 'ILCO close price'
  'INCR close price' 'UNCR close price' 'SNCM close price'
- 'AURA close price' 'APLP close price' 'WTS close price' 'CFX close price']"
-2011,11,"['LEOF close price' 'TOPS close price' 'AICS close price'
+ 'AURA close price' 'APLP close price' 'WTS close price' 'CFX close price']",1.624522931,2.743496685,9.772791057,18.22006072,23.41111725,43.64857073,62.79964818,83.09395298,192.2125773,14692.69921
+01-11-11,"['LEOF close price' 'TOPS close price' 'AICS close price'
  'DNA close price' 'AVLN close price' 'ALMD close price'
  'TUZA close price' 'EMTC close price' 'ROBO close price'
  'ENLT close price' 'ENDY close price' 'AVGL close price'
@@ -7655,8 +7655,8 @@
  'WSMK close price' 'CTPL5 close price' 'OPAL close price'
  'PTCH close price' 'ILCO close price' 'INCR close price'
  'UNCR close price' 'SNCM close price' 'AURA close price'
- 'APLP close price' 'WTS close price' 'CFX close price']"
-2011,12,"['LEOF close price' 'AICS close price' 'TOPS close price'
+ 'APLP close price' 'WTS close price' 'CFX close price']",4.020679997,10.94379087,24.52476496,36.90686085,62.29590156,98.8692855,172.4641364,244.1774176,491.086657,1557445.218
+01-12-11,"['LEOF close price' 'AICS close price' 'TOPS close price'
  'DNA close price' 'AVLN close price' 'ALMD close price'
  'ROBO close price' 'TUZA close price' 'ENLT close price'
  'EMTC close price' 'AVGL close price' 'ENDY close price'
@@ -7744,8 +7744,8 @@
  'OPAL close price' 'CTPL5 close price' 'PTCH close price'
  'ILCO close price' 'INCR close price' 'UNCR close price'
  'SNCM close price' 'AURA close price' 'APLP close price'
- 'WTS close price' 'CFX close price']"
-2012,1,"['AICS close price' 'TOPS close price' 'AVLN close price'
+ 'WTS close price' 'CFX close price']",1.26793134,5.851559358,7.015469175,17.24624024,30.10776572,47.14861657,67.79611323,98.74163032,225.4639622,327878.4183
+01-01-12,"['AICS close price' 'TOPS close price' 'AVLN close price'
  'DNA close price' 'LEOF close price' 'ALMD close price'
  'ROBO close price' 'ENLT close price' 'EMTC close price'
  'TUZA close price' 'AVGL close price' 'ENDY close price'
@@ -7834,8 +7834,8 @@
  'CTPL5 close price' 'PTCH close price' 'INCR close price'
  'ILCO close price' 'UNCR close price' 'EFNC close price'
  'AURA close price' 'SNCM close price' 'APLP close price'
- 'WTS close price' 'CFX close price']"
-2012,2,"['TOPS close price' 'AICS close price' 'DNA close price'
+ 'WTS close price' 'CFX close price']",6.983673751,16.13225406,31.80108106,42.18608696,84.56827468,133.2400481,193.0461915,347.5460593,738.0876995,1273131.828
+01-02-12,"['TOPS close price' 'AICS close price' 'DNA close price'
  'LEOF close price' 'ALMD close price' 'ENLT close price'
  'ROBO close price' 'TUZA close price' 'INBR close price'
  'AVGL close price' 'SHAN close price' 'EMTC close price'
@@ -7924,8 +7924,8 @@
  'OPAL close price' 'PTCH close price' 'CTPL5 close price'
  'INCR close price' 'ILCO close price' 'AURA close price'
  'SNCM close price' 'EFNC close price' 'APLP close price'
- 'UNCR close price' 'WTS close price' 'CFX close price']"
-2012,3,"['TOPS close price' 'AICS close price' 'DNA close price'
+ 'UNCR close price' 'WTS close price' 'CFX close price']",6.443725401,12.20373336,24.21510088,33.53251538,73.0156019,103.9305222,167.3932476,230.879931,386.1952888,775586.822
+01-03-12,"['TOPS close price' 'AICS close price' 'DNA close price'
  'ENLT close price' 'ROBO close price' 'ALMD close price'
  'TUZA close price' 'LEOF close price' 'INBR close price'
  'AVGL close price' 'EMTC close price' 'SHAN close price'
@@ -8014,8 +8014,8 @@
  'PTCH close price' 'CTPL5 close price' 'INCR close price'
  'ILCO close price' 'AURA close price' 'SNCM close price'
  'EFNC close price' 'APLP close price' 'UNCR close price'
- 'CFX close price' 'WTS close price']"
-2012,4,"['TOPS close price' 'AICS close price' 'DNA close price'
+ 'CFX close price' 'WTS close price']",4.686523759,21.1569605,26.1902311,24.89305335,102.2781869,101.7560361,211.5740246,249.3248468,353.1641784,889995.8577
+01-04-12,"['TOPS close price' 'AICS close price' 'DNA close price'
  'ENLT close price' 'TUZA close price' 'ALMD close price'
  'ROBO close price' 'INBR close price' 'LEOF close price'
  'EMTC close price' 'SHAN close price' 'AVGL close price'
@@ -8103,8 +8103,8 @@
  'UNVO close price' 'SRAC close price' 'PTCH close price'
  'CTPL5 close price' 'INCR close price' 'ILCO close price'
  'AURA close price' 'SNCM close price' 'EFNC close price'
- 'APLP close price' 'UNCR close price' 'CFX close price' 'WTS close price']"
-2012,5,"['TOPS close price' 'AICS close price' 'DNA close price'
+ 'APLP close price' 'UNCR close price' 'CFX close price' 'WTS close price']",3.675889319,9.512098059,12.52281991,22.16417638,37.6086784,53.66463545,83.81427553,126.1694725,199.9571565,90567.71019
+01-05-12,"['TOPS close price' 'AICS close price' 'DNA close price'
  'ENLT close price' 'TUZA close price' 'INBR close price'
  'ALMD close price' 'ROBO close price' 'EMTC close price'
  'SHAN close price' 'AVGL close price' 'LEOF close price'
@@ -8192,8 +8192,8 @@
  'OPAL close price' 'UNVO close price' 'SRAC close price'
  'PTCH close price' 'CTPL5 close price' 'INCR close price'
  'ILCO close price' 'SNCM close price' 'EFNC close price'
- 'APLP close price' 'UNCR close price' 'CFX close price' 'WTS close price']"
-2012,6,"['DNA close price' 'TOPS close price' 'AICS close price'
+ 'APLP close price' 'UNCR close price' 'CFX close price' 'WTS close price']",2.802580159,7.951455377,12.90679805,17.68369361,43.79778367,52.16472689,136.721496,131.014401,168.1741383,57551.68673
+01-06-12,"['DNA close price' 'TOPS close price' 'AICS close price'
  'TUZA close price' 'ENLT close price' 'INBR close price'
  'ROBO close price' 'ALMD close price' 'AVRT close price'
  'SHAN close price' 'AVGL close price' 'EMTC close price'
@@ -8280,8 +8280,8 @@
  'UNVO close price' 'SRAC close price' 'PTCH close price'
  'CTPL5 close price' 'INCR close price' 'ILCO close price'
  'SNCM close price' 'EFNC close price' 'UNCR close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2012,7,"['DNA close price' 'TOPS close price' 'AICS close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",1.113668349,3.564798895,5.96536653,11.73851342,22.95924987,22.35096826,46.20286902,48.48943824,78.15912294,774554.7336
+01-07-12,"['DNA close price' 'TOPS close price' 'AICS close price'
  'TUZA close price' 'INBR close price' 'ENLT close price'
  'ROBO close price' 'ALMD close price' 'SHAN close price'
  'AVRT close price' 'MYDS close price' 'GAON close price'
@@ -8368,8 +8368,8 @@
  'OPAL close price' 'UNVO close price' 'SRAC close price'
  'PTCH close price' 'CTPL5 close price' 'INCR close price'
  'ILCO close price' 'SNCM close price' 'EFNC close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2012,8,"['DNA close price' 'INBR close price' 'TOPS close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",2.396312069,6.409126906,9.904739579,21.62741793,38.73357123,63.33280287,90.98856865,151.9426075,263.7660636,1154770.148
+01-08-12,"['DNA close price' 'INBR close price' 'TOPS close price'
  'AICS close price' 'TUZA close price' 'ENLT close price'
  'ROBO close price' 'ALMD close price' 'GAON close price'
  'SHAN close price' 'MYDS close price' 'MRHL close price'
@@ -8456,8 +8456,8 @@
  'OPAL close price' 'UNVO close price' 'SRAC close price'
  'PTCH close price' 'CTPL5 close price' 'ILCO close price'
  'INCR close price' 'SNCM close price' 'EFNC close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2012,9,"['DNA close price' 'INBR close price' 'TUZA close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",1.951393863,6.945509607,7.074625442,12.97672679,22.49775319,48.30382073,64.68004679,76.50738972,138.6000375,918663.6219
+01-09-12,"['DNA close price' 'INBR close price' 'TUZA close price'
  'AICS close price' 'TOPS close price' 'ENLT close price'
  'ENRG close price' 'GAON close price' 'ROBO close price'
  'MYDS close price' 'SHAN close price' 'ALMD close price'
@@ -8545,8 +8545,8 @@
  'PRGO close price' 'DLEKG close price' 'UNVO close price'
  'PTCH close price' 'SRAC close price' 'ILCO close price'
  'CTPL5 close price' 'SNCM close price' 'EFNC close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2012,10,"['DNA close price' 'INBR close price' 'TUZA close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",1.617337058,7.436279189,6.964475037,12.07595579,23.5412085,35.54613856,60.26092492,118.4347815,115.0397547,148461.3541
+01-10-12,"['DNA close price' 'INBR close price' 'TUZA close price'
  'AICS close price' 'TOPS close price' 'ENLT close price'
  'ENRG close price' 'GAON close price' 'MYDS close price'
  'ROBO close price' 'LZNR close price' 'SHAN close price'
@@ -8635,8 +8635,8 @@
  'PRGO close price' 'DLEKG close price' 'UNVO close price'
  'PTCH close price' 'ILCO close price' 'SRAC close price'
  'CTPL5 close price' 'SNCM close price' 'EFNC close price'
- 'APLP close price' 'CFX close price' 'WTS close price']"
-2012,11,"['DNA close price' 'INBR close price' 'AICS close price'
+ 'APLP close price' 'CFX close price' 'WTS close price']",1.396551365,4.002938296,4.690032357,10.14845545,24.71003494,40.5242873,58.40425737,142.01083,122.1196275,252197.157
+01-11-12,"['DNA close price' 'INBR close price' 'AICS close price'
  'TUZA close price' 'TOPS close price' 'ENLT close price'
  'ENRG close price' 'MYDS close price' 'GAON close price'
  'ROBO close price' 'LZNR close price' 'ARNA close price'
@@ -8725,8 +8725,8 @@
  'PRGO close price' 'SFET close price' 'DLEKG close price'
  'UNVO close price' 'PTCH close price' 'ILCO close price'
  'SRAC close price' 'CTPL5 close price' 'SNCM close price'
- 'EFNC close price' 'APLP close price' 'CFX close price' 'WTS close price']"
-2012,12,"['DNA close price' 'AICS close price' 'TUZA close price'
+ 'EFNC close price' 'APLP close price' 'CFX close price' 'WTS close price']",2.636964506,7.967816249,12.96501564,18.61529719,32.7952794,57.28618751,88.35045312,140.9012085,169.3460428,277119.924
+01-12-12,"['DNA close price' 'AICS close price' 'TUZA close price'
  'TOPS close price' 'ENLT close price' 'MYDS close price'
  'GAON close price' 'LZNR close price' 'ENRG close price'
  'ARNA close price' 'ELAL close price' 'LAHAV close price'
@@ -8813,8 +8813,8 @@
  'PZOL close price' 'UNVO close price' 'DLEKG close price'
  'CTPL5 close price' 'PTCH close price' 'ILCO close price'
  'SRAC close price' 'SNCM close price' 'EFNC close price'
- 'APLP close price' 'WTS close price' 'CFX close price']"
-2013,1,"['DNA close price' 'AICS close price' 'TUZA close price'
+ 'APLP close price' 'WTS close price' 'CFX close price']",4.05528404,10.99545386,10.67737473,26.69199634,48.25923067,75.20763227,126.5479565,177.9986315,288.4368914,621133.3284
+01-01-13,"['DNA close price' 'AICS close price' 'TUZA close price'
  'MYDS close price' 'TOPS close price' 'GAON close price'
  'ENLT close price' 'ARNA close price' 'ELAL close price'
  'ENRG close price' 'LAHAV close price' 'ISCN close price'
@@ -8904,8 +8904,8 @@
  'PZOL close price' 'CTPL5 close price' 'DLEKG close price'
  'PTCH close price' 'ILCO close price' 'SRAC close price'
  'SNCM close price' 'EFNC close price' 'APLP close price'
- 'WTS close price' 'CFX close price']"
-2013,2,"['DNA close price' 'AICS close price' 'TUZA close price'
+ 'WTS close price' 'CFX close price']",2.930025984,12.11986937,14.43074781,34.00283449,55.68188889,62.77700172,168.9017063,314.698494,342.1363862,141772.0889
+01-02-13,"['DNA close price' 'AICS close price' 'TUZA close price'
  'MYDS close price' 'TOPS close price' 'ARNA close price'
  'GAON close price' 'ELAL close price' 'LAHAV close price'
  'ISCN close price' 'ENLT close price' 'ENRG close price'
@@ -8994,8 +8994,8 @@
  'GLTC close price' 'CTPL5 close price' 'PTCH close price'
  'DLEKG close price' 'ILCO close price' 'SRAC close price'
  'SNCM close price' 'EFNC close price' 'APLP close price'
- 'WTS close price' 'CFX close price']"
-2013,3,"['DNA close price' 'MYDS close price' 'TUZA close price'
+ 'WTS close price' 'CFX close price']",0.925425314,3.139375937,5.868474402,14.0136607,14.23094593,24.71164883,45.09672292,47.01099889,78.85519239,87558.03127
+01-03-13,"['DNA close price' 'MYDS close price' 'TUZA close price'
  'AICS close price' 'TOPS close price' 'ARNA close price'
  'ELAL close price' 'LAHAV close price' 'GAON close price'
  'ISCN close price' 'ALMD close price' 'LZNR close price'
@@ -9083,8 +9083,8 @@
  'SFET close price' 'PZOL close price' 'CTPL5 close price'
  'PTCH close price' 'DLEKG close price' 'ILCO close price'
  'SRAC close price' 'GLTC close price' 'SNCM close price'
- 'EFNC close price' 'APLP close price' 'WTS close price' 'CFX close price']"
-2013,4,"['DNA close price' 'MYDS close price' 'TUZA close price'
+ 'EFNC close price' 'APLP close price' 'WTS close price' 'CFX close price']",3.389976398,11.4666522,13.22806169,32.770764,51.10448754,59.4808479,124.2297178,167.9912262,369.5990544,182739.7638
+01-04-13,"['DNA close price' 'MYDS close price' 'TUZA close price'
  'AICS close price' 'TOPS close price' 'ARNA close price'
  'ELAL close price' 'ALMD close price' 'ISCN close price'
  'LAHAV close price' 'GAON close price' 'LZNR close price'
@@ -9171,8 +9171,8 @@
  'PZOL close price' 'CTPL5 close price' 'PTCH close price'
  'AURA close price' 'DLEKG close price' 'SRAC close price'
  'ILCO close price' 'GLTC close price' 'SNCM close price'
- 'EFNC close price' 'APLP close price' 'WTS close price' 'CFX close price']"
-2013,5,"['DNA close price' 'MYDS close price' 'AICS close price'
+ 'EFNC close price' 'APLP close price' 'WTS close price' 'CFX close price']",1.560370563,6.046153151,11.43448999,14.38956542,32.33530547,38.64193708,62.91406453,77.56739747,208.311824,58912.35021
+01-05-13,"['DNA close price' 'MYDS close price' 'AICS close price'
  'TUZA close price' 'ARNA close price' 'TOPS close price'
  'ALMD close price' 'ISCN close price' 'ELAL close price'
  'LAHAV close price' 'LZNR close price' 'GAON close price'
@@ -9259,8 +9259,8 @@
  'PZOL close price' 'CTPL5 close price' 'PTCH close price'
  'AURA close price' 'SRAC close price' 'DLEKG close price'
  'ILCO close price' 'GLTC close price' 'SNCM close price'
- 'EFNC close price' 'APLP close price' 'WTS close price' 'CFX close price']"
-2013,6,"['DNA close price' 'MYDS close price' 'AICS close price'
+ 'EFNC close price' 'APLP close price' 'WTS close price' 'CFX close price']",1.451533687,7.52767211,6.92429861,11.78092123,23.72146029,33.82821372,56.61673995,92.34987112,213.5751284,127292.7244
+01-06-13,"['DNA close price' 'MYDS close price' 'AICS close price'
  'TUZA close price' 'ARNA close price' 'TOPS close price'
  'ISCN close price' 'ALMD close price' 'LZNR close price'
  'BONS close price' 'ELAL close price' 'LAHAV close price'
@@ -9347,8 +9347,8 @@
  'PTCH close price' 'SRAC close price' 'CTPL5 close price'
  'DLEKG close price' 'ILCO close price' 'GLTC close price'
  'SNCM close price' 'EFNC close price' 'APLP close price'
- 'WTS close price' 'CFX close price']"
-2013,7,"['DNA close price' 'AICS close price' 'TUZA close price'
+ 'WTS close price' 'CFX close price']",2.305999143,7.34388891,21.42749231,30.33646236,59.79098444,88.14494749,104.4182785,242.2137769,562.9778372,402382.4292
+01-07-13,"['DNA close price' 'AICS close price' 'TUZA close price'
  'MYDS close price' 'ARNA close price' 'TOPS close price'
  'BONS close price' 'ISCN close price' 'ALMD close price'
  'LZNR close price' 'ELAL close price' 'LAHAV close price'
@@ -9436,8 +9436,8 @@
  'SRAC close price' 'PTCH close price' 'DLEKG close price'
  'CTPL5 close price' 'ILCO close price' 'GLTC close price'
  'SNCM close price' 'EFNC close price' 'APLP close price'
- 'WTS close price' 'UNCR close price' 'CFX close price']"
-2013,8,"['DNA close price' 'AICS close price' 'TUZA close price'
+ 'WTS close price' 'UNCR close price' 'CFX close price']",2.427804602,10.20413609,18.32234948,33.0056737,56.05345987,108.672388,69.49349661,287.9363542,570.7034429,342380.076
+01-08-13,"['DNA close price' 'AICS close price' 'TUZA close price'
  'BONS close price' 'MYDS close price' 'ARNA close price'
  'ISCN close price' 'ALMD close price' 'LZNR close price'
  'ELAL close price' 'AVRT close price' 'LAHAV close price'
@@ -9523,8 +9523,8 @@
  'SRAC close price' 'AURA close price' 'DLEKG close price'
  'PTCH close price' 'CTPL5 close price' 'GLTC close price'
  'ILCO close price' 'SNCM close price' 'EFNC close price'
- 'APLP close price' 'WTS close price' 'UNCR close price' 'CFX close price']"
-2013,9,"['DNA close price' 'AICS close price' 'TUZA close price'
+ 'APLP close price' 'WTS close price' 'UNCR close price' 'CFX close price']",1.325294124,2.922048927,6.29222729,14.17742374,20.39953964,37.81181582,40.25897377,46.14482193,163.5467672,306957.7557
+01-09-13,"['DNA close price' 'AICS close price' 'TUZA close price'
  'BONS close price' 'MYDS close price' 'ARNA close price'
  'ELAL close price' 'LZNR close price' 'ALMD close price'
  'ISCN close price' 'AVRT close price' 'LAHAV close price'
@@ -9611,8 +9611,8 @@
  'AURA close price' 'DLEKG close price' 'PTCH close price'
  'CTPL5 close price' 'GLTC close price' 'ILCO close price'
  'SNCM close price' 'EFNC close price' 'CFX close price'
- 'APLP close price' 'WTS close price' 'UNCR close price']"
-2013,10,"['DNA close price' 'BONS close price' 'AICS close price'
+ 'APLP close price' 'WTS close price' 'UNCR close price']",1.389985097,6.017902385,7.625638859,17.61586617,28.21650236,46.66165768,64.13424783,77.76881374,131.6766274,261500.7433
+01-10-13,"['DNA close price' 'BONS close price' 'AICS close price'
  'TUZA close price' 'LEOF close price' 'MYDS close price'
  'ARNA close price' 'ELAL close price' 'LZNR close price'
  'ALMD close price' 'AVRT close price' 'ISCN close price'
@@ -9700,8 +9700,8 @@
  'CTPL5 close price' 'PTCH close price' 'GLTC close price'
  'ILCO close price' 'SNCM close price' 'CFX close price'
  'EFNC close price' 'APLP close price' 'WTS close price'
- 'UNCR close price']"
-2013,11,"['DNA close price' 'BONS close price' 'LEOF close price'
+ 'UNCR close price']",1.993451396,6.908043634,24.17169373,34.50898489,44.76407321,88.4496485,105.64573,210.9789359,545.2579528,320652.3334
+01-11-13,"['DNA close price' 'BONS close price' 'LEOF close price'
  'AICS close price' 'TUZA close price' 'MYDS close price'
  'ARNA close price' 'ELAL close price' 'AVRT close price'
  'ALMD close price' 'LZNR close price' 'LAHAV close price'
@@ -9790,8 +9790,8 @@
  'CTPL5 close price' 'PTCH close price' 'GLTC close price'
  'ILCO close price' 'SNCM close price' 'CFX close price'
  'EFNC close price' 'APLP close price' 'WTS close price'
- 'UNCR close price']"
-2013,12,"['BONS close price' 'DNA close price' 'LEOF close price'
+ 'UNCR close price']",1.056244142,3.274727823,6.658692709,8.629052178,14.59551059,21.60587928,44.03195848,75.58510688,157.0852126,245533.7402
+01-12-13,"['BONS close price' 'DNA close price' 'LEOF close price'
  'AICS close price' 'TUZA close price' 'AVRT close price'
  'AURA close price' 'ARNA close price' 'MYDS close price'
  'ELAL close price' 'ALMD close price' 'FRSX close price'
@@ -9880,8 +9880,8 @@
  'DLEKG close price' 'CTPL5 close price' 'SNCM close price'
  'PTCH close price' 'GLTC close price' 'ILCO close price'
  'CFX close price' 'EFNC close price' 'WTS close price' 'APLP close price'
- 'UNCR close price']"
-2014,1,"['BONS close price' 'LEOF close price' 'DNA close price'
+ 'UNCR close price']",1.670839365,7.553409117,19.51588581,33.84253409,41.72526554,80.24088702,64.34067408,187.2382925,425.8234374,333664.1432
+01-01-14,"['BONS close price' 'LEOF close price' 'DNA close price'
  'AICS close price' 'AVRT close price' 'TUZA close price'
  'ARNA close price' 'ELAL close price' 'MYDS close price'
  'AURA close price' 'FRSX close price' 'CHAM close price'
@@ -9971,8 +9971,8 @@
  'CTPL5 close price' 'PTCH close price' 'SNCM close price'
  'GLTC close price' 'ILCO close price' 'CFX close price'
  'EFNC close price' 'WTS close price' 'APLP close price'
- 'UNCR close price']"
-2014,2,"['BONS close price' 'LEOF close price' 'AICS close price'
+ 'UNCR close price']",2.476305936,6.220339628,27.88328827,39.87051746,40.82231155,73.18437168,132.3382529,334.0378994,486.4095793,351629.4003
+01-02-14,"['BONS close price' 'LEOF close price' 'AICS close price'
  'DNA close price' 'AVRT close price' 'TUZA close price'
  'ARNA close price' 'ELAL close price' 'MYDS close price'
  'AURA close price' 'FRSX close price' 'LAHAV close price'
@@ -10061,8 +10061,8 @@
  'CTPL5 close price' 'PTCH close price' 'SNCM close price'
  'GLTC close price' 'ILCO close price' 'CNZN close price'
  'CFX close price' 'SEMG close price' 'EFNC close price' 'WTS close price'
- 'APLP close price' 'UNCR close price']"
-2014,3,"['BONS close price' 'LEOF close price' 'AICS close price'
+ 'APLP close price' 'UNCR close price']",2.115953777,11.57703474,30.9317443,36.98316597,25.82680187,62.30600382,103.9379985,222.7883827,504.6942501,552252.0364
+01-03-14,"['BONS close price' 'LEOF close price' 'AICS close price'
  'DNA close price' 'TUZA close price' 'ARNA close price'
  'MYDS close price' 'LAHAV close price' 'AVRT close price'
  'ELAL close price' 'FRSX close price' 'CHAM close price'
@@ -10151,8 +10151,8 @@
  'GLTC close price' 'SNCM close price' 'ILCO close price'
  'CNZN close price' 'CFX close price' 'SEMG close price'
  'EFNC close price' 'WTS close price' 'APLP close price'
- 'UNCR close price']"
-2014,4,"['BONS close price' 'LEOF close price' 'AICS close price'
+ 'UNCR close price']",0.603880244,3.877863666,9.168009227,7.168413093,7.404353229,17.92905653,48.33230737,53.62463639,128.630206,395298.0459
+01-04-14,"['BONS close price' 'LEOF close price' 'AICS close price'
  'TUZA close price' 'DNA close price' 'ARNA close price'
  'LAHAV close price' 'MYDS close price' 'FRSX close price'
  'CHAM close price' 'AVRT close price' 'ELAL close price'
@@ -10242,8 +10242,8 @@
  'DLEKG close price' 'ILCO close price' 'SNCM close price'
  'CNZN close price' 'CFX close price' 'SEMG close price'
  'EFNC close price' 'WTS close price' 'APLP close price'
- 'UNCR close price']"
-2014,5,"['BONS close price' 'LEOF close price' 'AICS close price'
+ 'UNCR close price']",2.495500289,7.731054103,24.50263251,22.11850569,28.75980948,41.74055861,126.6638989,235.8438677,541.7674958,114704.7783
+01-05-14,"['BONS close price' 'LEOF close price' 'AICS close price'
  'TUZA close price' 'ARNA close price' 'LAHAV close price'
  'MYDS close price' 'CHAM close price' 'FRSX close price'
  'ALMD close price' 'ELAL close price' 'AVRT close price'
@@ -10333,8 +10333,8 @@
  'DLEKG close price' 'ILCO close price' 'SNCM close price'
  'CNZN close price' 'CFX close price' 'SEMG close price'
  'EFNC close price' 'WTS close price' 'APLP close price'
- 'UNCR close price']"
-2014,6,"['LEOF close price' 'BONS close price' 'AICS close price'
+ 'UNCR close price']",1.98230695,8.132958773,20.92581451,17.18716505,41.330816,37.16620925,112.8039734,164.7264777,357.395529,276050.8229
+01-06-14,"['LEOF close price' 'BONS close price' 'AICS close price'
  'TUZA close price' 'ARNA close price' 'MYDS close price'
  'LAHAV close price' 'DCMA close price' 'CHAM close price'
  'ALMD close price' 'ELAL close price' 'TNPV close price'
@@ -10424,8 +10424,8 @@
  'DLEKG close price' 'ILCO close price' 'SNCM close price'
  'CNZN close price' 'CFX close price' 'SEMG close price'
  'EFNC close price' 'WTS close price' 'APLP close price'
- 'UNCR close price']"
-2014,7,"['LEOF close price' 'BONS close price' 'TUZA close price'
+ 'UNCR close price']",2.097785373,12.39488507,19.55986425,17.22502115,27.29585138,26.01125501,71.06178797,204.8702379,331.8354397,130932.1777
+01-07-14,"['LEOF close price' 'BONS close price' 'TUZA close price'
  'AICS close price' 'ARNA close price' 'TOPS close price'
  'MYDS close price' 'LAHAV close price' 'TNPV close price'
  'CHAM close price' 'ALMD close price' 'DCMA close price'
@@ -10513,8 +10513,8 @@
  'CTPL5 close price' 'ILCO close price' 'SNCM close price'
  'CFX close price' 'CNZN close price' 'SEMG close price'
  'EFNC close price' 'WTS close price' 'UNCR close price'
- 'APLP close price']"
-2014,8,"['LEOF close price' 'BONS close price' 'AICS close price'
+ 'APLP close price']",1.276434766,4.13230102,11.80001008,6.759790459,15.38347687,17.7050686,65.33797422,89.66306865,207.9816938,98099.14231
+01-08-14,"['LEOF close price' 'BONS close price' 'AICS close price'
  'TUZA close price' 'ARNA close price' 'TOPS close price'
  'MYDS close price' 'LAHAV close price' 'TNPV close price'
  'ISCN close price' 'ALMD close price' 'ELAL close price'
@@ -10602,8 +10602,8 @@
  'CTPL5 close price' 'ILCO close price' 'SFET close price'
  'CFX close price' 'SNCM close price' 'CNZN close price'
  'SEMG close price' 'EFNC close price' 'WTS close price'
- 'UNCR close price' 'APLP close price']"
-2014,9,"['LEOF close price' 'BONS close price' 'TUZA close price'
+ 'UNCR close price' 'APLP close price']",0.622228918,2.65970465,5.017850498,7.011996257,6.887019704,18.14299069,29.47207655,59.07349296,171.5970569,286775.6098
+01-09-14,"['LEOF close price' 'BONS close price' 'TUZA close price'
  'AICS close price' 'ARNA close price' 'TOPS close price'
  'MYDS close price' 'TNPV close price' 'LAHAV close price'
  'ISCN close price' 'ALMD close price' 'DCMA close price'
@@ -10692,8 +10692,8 @@
  'CTPL5 close price' 'ILCO close price' 'SFET close price'
  'CFX close price' 'SNCM close price' 'CNZN close price'
  'SEMG close price' 'EFNC close price' 'WTS close price'
- 'UNCR close price' 'APLP close price']"
-2014,10,"['LEOF close price' 'BONS close price' 'TUZA close price'
+ 'UNCR close price' 'APLP close price']",1.820314503,5.827446881,12.90026593,12.01655569,13.91480415,29.18074445,100.8702843,110.0982187,314.4212791,102002.0241
+01-10-14,"['LEOF close price' 'BONS close price' 'TUZA close price'
  'AICS close price' 'ARNA close price' 'ALMD close price'
  'TOPS close price' 'MYDS close price' 'LAHAV close price'
  'TNPV close price' 'DCMA close price' 'LZNR close price'
@@ -10782,8 +10782,8 @@
  'ILCO close price' 'CTPL5 close price' 'SFET close price'
  'CFX close price' 'SNCM close price' 'CNZN close price'
  'SEMG close price' 'EFNC close price' 'WTS close price'
- 'UNCR close price' 'APLP close price']"
-2014,11,"['LEOF close price' 'BONS close price' 'TUZA close price'
+ 'UNCR close price' 'APLP close price']",1.702309993,7.858600935,11.80000171,16.4703273,26.90428666,39.35203213,65.8288917,148.7187556,267.1756972,405876.8292
+01-11-14,"['LEOF close price' 'BONS close price' 'TUZA close price'
  'ARNA close price' 'ALMD close price' 'TNPV close price'
  'TOPS close price' 'DCMA close price' 'LZNR close price'
  'AVRT close price' 'ELAL close price' 'ENLT close price'
@@ -10872,8 +10872,8 @@
  'HRON close price' 'ILCO close price' 'CTPL5 close price'
  'CFX close price' 'SFET close price' 'SNCM close price'
  'CNZN close price' 'SEMG close price' 'EFNC close price'
- 'WTS close price' 'UNCR close price']"
-2014,12,"['LEOF close price' 'BONS close price' 'TUZA close price'
+ 'WTS close price' 'UNCR close price']",2.012612566,4.711597791,9.983840189,15.62771272,16.60246562,32.70503634,43.03964364,119.9589751,194.7258718,119739.7735
+01-12-14,"['LEOF close price' 'BONS close price' 'TUZA close price'
  'ARNA close price' 'ALMD close price' 'ENLT close price'
  'DCMA close price' 'AVRT close price' 'TNPV close price'
  'LZNR close price' 'TOPS close price' 'ELAL close price'
@@ -10962,8 +10962,8 @@
  'HRON close price' 'DLEKG close price' 'ILCO close price'
  'CTPL5 close price' 'SFET close price' 'SNCM close price'
  'CNZN close price' 'SEMG close price' 'WTS close price'
- 'EFNC close price' 'UNCR close price']"
-2015,1,"['LEOF close price' 'TUZA close price' 'ARNA close price'
+ 'EFNC close price' 'UNCR close price']",2.384343608,7.112771431,13.24324256,21.25922033,33.0550478,38.83942953,93.88272606,173.1238394,272.2630848,269852.3841
+01-01-15,"['LEOF close price' 'TUZA close price' 'ARNA close price'
  'ENLT close price' 'BONS close price' 'AVRT close price'
  'LZNR close price' 'DCMA close price' 'CNMD close price'
  'TOPS close price' 'LAHAV close price' 'TNPV close price'
@@ -11052,8 +11052,8 @@
  'CTPL5 close price' 'DLEKG close price' 'ILCO close price'
  'SFET close price' 'SNCM close price' 'CNZN close price'
  'SEMG close price' 'WTS close price' 'EFNC close price'
- 'UNCR close price']"
-2015,2,"['LEOF close price' 'TUZA close price' 'ARNA close price'
+ 'UNCR close price']",2.252859941,5.652423595,13.28067416,20.07761055,25.74045391,34.65387973,91.47462761,189.2442406,222.5541112,42983.1143
+01-02-15,"['LEOF close price' 'TUZA close price' 'ARNA close price'
  'ENLT close price' 'LZNR close price' 'AVRT close price'
  'BONS close price' 'CNMD close price' 'DCMA close price'
  'LAHAV close price' 'SLARL close price' 'TOPS close price'
@@ -11142,8 +11142,8 @@
  'HRON close price' 'DLEKG close price' 'ILCO close price'
  'SFET close price' 'CNZN close price' 'SNCM close price'
  'SEMG close price' 'WTS close price' 'EFNC close price'
- 'UNCR close price']"
-2015,3,"['LEOF close price' 'TUZA close price' 'ARNA close price'
+ 'UNCR close price']",6.449509084,13.86399118,18.74236107,27.24782866,63.05371395,87.73097942,229.9048472,219.9880322,441.2510783,114193.4527
+01-03-15,"['LEOF close price' 'TUZA close price' 'ARNA close price'
  'ENLT close price' 'AVRT close price' 'LZNR close price'
  'BONS close price' 'DCMA close price' 'CNMD close price'
  'LAHAV close price' 'AURA close price' 'MYDS close price'
@@ -11231,8 +11231,8 @@
  'MYSZ close price' 'PRGO close price' 'CTPL5 close price'
  'HRON close price' 'CNZN close price' 'DLEKG close price'
  'ILCO close price' 'SFET close price' 'SEMG close price'
- 'WTS close price' 'EFNC close price' 'UNCR close price']"
-2015,4,"['LEOF close price' 'TUZA close price' 'ARNA close price'
+ 'WTS close price' 'EFNC close price' 'UNCR close price']",6.064723886,8.740660354,20.33402287,25.55858204,49.67191483,69.03742229,120.5885718,185.586985,399.0800019,100952.6476
+01-04-15,"['LEOF close price' 'TUZA close price' 'ARNA close price'
  'ENLT close price' 'LZNR close price' 'AVRT close price'
  'BONS close price' 'CNMD close price' 'DCMA close price'
  'LAHAV close price' 'MYDS close price' 'AURA close price'
@@ -11320,8 +11320,8 @@
  'MYSZ close price' 'PRGO close price' 'CTPL5 close price'
  'HRON close price' 'CNZN close price' 'DLEKG close price'
  'SFET close price' 'ILCO close price' 'SEMG close price'
- 'WTS close price' 'EFNC close price' 'UNCR close price']"
-2015,5,"['LEOF close price' 'TUZA close price' 'ARNA close price'
+ 'WTS close price' 'EFNC close price' 'UNCR close price']",2.560553719,3.906615331,10.40064208,14.14666277,26.52671287,39.58061303,53.60995526,80.83573651,168.2658641,31954.1049
+01-05-15,"['LEOF close price' 'TUZA close price' 'ARNA close price'
  'ENLT close price' 'LZNR close price' 'AVRT close price'
  'CNMD close price' 'BONS close price' 'LAHAV close price'
  'DCMA close price' 'AURA close price' 'MYDS close price'
@@ -11409,8 +11409,8 @@
  'HRON close price' 'PRGO close price' 'CNZN close price'
  'DLEKG close price' 'SFET close price' 'ILCO close price'
  'SEMG close price' 'WTS close price' 'EFNC close price'
- 'UNCR close price']"
-2015,6,"['LEOF close price' 'TUZA close price' 'ARNA close price'
+ 'UNCR close price']",4.454441037,9.830509924,11.33625889,24.39228611,36.60368072,96.99098283,119.8169653,133.3789931,261.0374992,38523.4078
+01-06-15,"['LEOF close price' 'TUZA close price' 'ARNA close price'
  'ENLT close price' 'LZNR close price' 'AVRT close price'
  'CNMD close price' 'LAHAV close price' 'DCMA close price'
  'MYDS close price' 'AURA close price' 'BONS close price'
@@ -11499,8 +11499,8 @@
  'MYSZ close price' 'PRGO close price' 'CNZN close price'
  'DLEKG close price' 'SFET close price' 'ILCO close price'
  'SEMG close price' 'WTS close price' 'EFNC close price'
- 'UNCR close price']"
-2015,7,"['LEOF close price' 'TUZA close price' 'ARNA close price'
+ 'UNCR close price']",3.117304514,5.897083471,7.38856851,14.94310577,20.40803806,37.42652462,68.7265991,56.46893814,192.214329,16280.14774
+01-07-15,"['LEOF close price' 'TUZA close price' 'ARNA close price'
  'LZNR close price' 'ENLT close price' 'AVRT close price'
  'CNMD close price' 'MYDS close price' 'LAHAV close price'
  'DCMA close price' 'AURA close price' 'ORAD close price'
@@ -11588,8 +11588,8 @@
  'CTPL5 close price' 'HRON close price' 'PRGO close price'
  'MYSZ close price' 'CNZN close price' 'DLEKG close price'
  'SFET close price' 'ILCO close price' 'SEMG close price'
- 'WTS close price' 'EFNC close price' 'UNCR close price']"
-2015,8,"['LEOF close price' 'ARNA close price' 'TUZA close price'
+ 'WTS close price' 'EFNC close price' 'UNCR close price']",1.640314958,2.012666532,5.279621663,13.23690383,14.6691085,24.18836887,43.70315226,40.01976088,110.6581055,22003.60488
+01-08-15,"['LEOF close price' 'ARNA close price' 'TUZA close price'
  'LZNR close price' 'ENLT close price' 'CNMD close price'
  'AVRT close price' 'MYDS close price' 'LAHAV close price'
  'ELDAV close price' 'ORAD close price' 'ITMR close price'
@@ -11676,8 +11676,8 @@
  'ISRS close price' 'CTPL5 close price' 'HRON close price'
  'PRGO close price' 'MYSZ close price' 'CNZN close price'
  'DLEKG close price' 'SFET close price' 'ILCO close price'
- 'SEMG close price' 'EFNC close price' 'UNCR close price']"
-2015,9,"['LEOF close price' 'ARNA close price' 'TUZA close price'
+ 'SEMG close price' 'EFNC close price' 'UNCR close price']",3.58270573,7.229060623,18.81869523,20.20166022,50.2272128,62.67926406,124.8035617,150.4194059,310.5885386,78180.20399
+01-09-15,"['LEOF close price' 'ARNA close price' 'TUZA close price'
  'ENLT close price' 'LZNR close price' 'CNMD close price'
  'MYDS close price' 'AVRT close price' 'LAHAV close price'
  'ELDAV close price' 'STCM close price' 'ORAD close price'
@@ -11766,8 +11766,8 @@
  'ISRS close price' 'HRON close price' 'CTPL5 close price'
  'PRGO close price' 'MYSZ close price' 'CNZN close price'
  'DLEKG close price' 'SFET close price' 'ILCO close price'
- 'SEMG close price' 'EFNC close price' 'UNCR close price']"
-2015,10,"['ARNA close price' 'LEOF close price' 'TUZA close price'
+ 'SEMG close price' 'EFNC close price' 'UNCR close price']",4.393266509,5.645700373,11.25567575,21.79784191,36.99426386,57.7179614,92.98690852,151.4811584,278.7432228,42763.9568
+01-10-15,"['ARNA close price' 'LEOF close price' 'TUZA close price'
  'ENLT close price' 'LZNR close price' 'CNMD close price'
  'MYDS close price' 'AVRT close price' 'LAHAV close price'
  'ELDAV close price' 'CPTP close price' 'STCM close price'
@@ -11856,8 +11856,8 @@
  'ISRS close price' 'HRON close price' 'CTPL5 close price'
  'PRGO close price' 'MYSZ close price' 'CNZN close price'
  'DLEKG close price' 'SFET close price' 'ILCO close price'
- 'SEMG close price' 'UNCR close price' 'EFNC close price']"
-2015,11,"['ARNA close price' 'LEOF close price' 'TUZA close price'
+ 'SEMG close price' 'UNCR close price' 'EFNC close price']",0.589417158,2.009765185,6.199732214,6.278799624,10.39335392,16.40100624,46.78943998,23.46253547,95.0783692,2107.117751
+01-11-15,"['ARNA close price' 'LEOF close price' 'TUZA close price'
  'ENLT close price' 'LZNR close price' 'CNMD close price'
  'MYDS close price' 'LAHAV close price' 'OPAL close price'
  'AVRT close price' 'CPTP close price' 'STCM close price'
@@ -11945,8 +11945,8 @@
  'HRON close price' 'ISRS close price' 'PRGO close price'
  'MYSZ close price' 'CTPL5 close price' 'CNZN close price'
  'DLEKG close price' 'SFET close price' 'ILCO close price'
- 'UNCR close price' 'EFNC close price']"
-2015,12,"['ARNA close price' 'LEOF close price' 'TUZA close price'
+ 'UNCR close price' 'EFNC close price']",4.22256413,6.506575833,20.6571293,30.83000558,47.73340929,79.77819379,144.7942134,181.2805684,384.6646108,78972.88866
+01-12-15,"['ARNA close price' 'LEOF close price' 'TUZA close price'
  'ENLT close price' 'LZNR close price' 'CNMD close price'
  'MYDS close price' 'LAHAV close price' 'INBR close price'
  'AVRT close price' 'OPAL close price' 'LUZN close price'
@@ -12034,8 +12034,8 @@
  'ELTR close price' 'KLIL close price' 'ISRS close price'
  'PRGO close price' 'MYSZ close price' 'CTPL5 close price'
  'CNZN close price' 'DLEKG close price' 'SFET close price'
- 'ILCO close price' 'UNCR close price' 'EFNC close price']"
-2016,1,"['ARNA close price' 'LZNR close price' 'LEOF close price'
+ 'ILCO close price' 'UNCR close price' 'EFNC close price']",4.183728554,6.839221114,18.90890002,24.87135289,49.31768171,64.29025708,129.5410363,154.0389853,419.2410514,103501.2347
+01-01-16,"['ARNA close price' 'LZNR close price' 'LEOF close price'
  'TUZA close price' 'ENLT close price' 'CNMD close price'
  'LAHAV close price' 'MYDS close price' 'AVRT close price'
  'INBR close price' 'STCM close price' 'CPTP close price'
@@ -12123,8 +12123,8 @@
  'MLTM close price' 'ISRS close price' 'KLIL close price'
  'MYSZ close price' 'PRGO close price' 'CTPL5 close price'
  'CNZN close price' 'SFET close price' 'DLEKG close price'
- 'ILCO close price' 'EFNC close price' 'UNCR close price']"
-2016,2,"['ARNA close price' 'LZNR close price' 'TUZA close price'
+ 'ILCO close price' 'EFNC close price' 'UNCR close price']",1.02354337,1.576223765,5.570704214,6.229322932,10.39832064,13.13326758,24.80774688,32.12701584,84.53286881,8666.058432
+01-02-16,"['ARNA close price' 'LZNR close price' 'TUZA close price'
  'LEOF close price' 'ENLT close price' 'CNMD close price'
  'MYDS close price' 'LAHAV close price' 'AVRT close price'
  'STCM close price' 'INBR close price' 'CPTP close price'
@@ -12214,8 +12214,8 @@
  'KLIL close price' 'MYSZ close price' 'PRGO close price'
  'CTPL5 close price' 'CNZN close price' 'SFET close price'
  'DLEKG close price' 'ILCO close price' 'EFNC close price'
- 'UNCR close price']"
-2016,3,"['ARNA close price' 'LZNR close price' 'TUZA close price'
+ 'UNCR close price']",2.858664821,4.854031455,12.44131349,27.27366941,23.83812224,46.63752476,55.87783138,62.5720159,301.5538891,3500.114996
+01-03-16,"['ARNA close price' 'LZNR close price' 'TUZA close price'
  'LEOF close price' 'ENLT close price' 'CNMD close price'
  'MYDS close price' 'LAHAV close price' 'AVRT close price'
  'STCM close price' 'INBR close price' 'PNAX close price'
@@ -12304,8 +12304,8 @@
  'MLTM close price' 'MNRV close price' 'KLIL close price'
  'MYSZ close price' 'PRGO close price' 'CNZN close price'
  'CTPL5 close price' 'DLEKG close price' 'ILCO close price'
- 'EFNC close price' 'UNCR close price']"
-2016,4,"['ARNA close price' 'LZNR close price' 'TUZA close price'
+ 'EFNC close price' 'UNCR close price']",1.286386037,3.936623387,10.33576858,11.07701899,10.0444538,32.80339343,43.02516635,41.66314468,130.7303999,2769.454718
+01-04-16,"['ARNA close price' 'LZNR close price' 'TUZA close price'
  'ENLT close price' 'LEOF close price' 'CNMD close price'
  'MYDS close price' 'AVRT close price' 'LAHAV close price'
  'STCM close price' 'INBR close price' 'PNAX close price'
@@ -12392,8 +12392,8 @@
  'ESLT close price' 'MNRV close price' 'MLTM close price'
  'KLIL close price' 'MYSZ close price' 'CNZN close price'
  'PRGO close price' 'CTPL5 close price' 'DLEKG close price'
- 'ILCO close price' 'EFNC close price' 'UNCR close price']"
-2016,5,"['ARNA close price' 'TUZA close price' 'LZNR close price'
+ 'ILCO close price' 'EFNC close price' 'UNCR close price']",1.52385436,3.00539695,4.876909225,5.674517021,12.34744154,17.84575997,26.80082531,31.81133444,88.12513514,567.1859155
+01-05-16,"['ARNA close price' 'TUZA close price' 'LZNR close price'
  'ENLT close price' 'CNMD close price' 'LEOF close price'
  'STCM close price' 'MYDS close price' 'AVRT close price'
  'INBR close price' 'LAHAV close price' 'PNAX close price'
@@ -12482,8 +12482,8 @@
  'KLIL close price' 'MLTM close price' 'MYSZ close price'
  'CNZN close price' 'CTPL5 close price' 'PRGO close price'
  'DLEKG close price' 'ILCO close price' 'EFNC close price'
- 'UNCR close price']"
-2016,6,"['ARNA close price' 'TUZA close price' 'LZNR close price'
+ 'UNCR close price']",2.194285908,17.59423825,28.75360685,44.08044871,47.06471054,114.8691629,177.2309769,224.2239074,399.871856,5401.493646
+01-06-16,"['ARNA close price' 'TUZA close price' 'LZNR close price'
  'CNMD close price' 'ENLT close price' 'LEOF close price'
  'INBR close price' 'STCM close price' 'MYDS close price'
  'AVRT close price' 'PNAX close price' 'LAHAV close price'
@@ -12570,8 +12570,8 @@
  'MNRV close price' 'KLIL close price' 'HRON close price'
  'MLTM close price' 'MYSZ close price' 'CNZN close price'
  'CTPL5 close price' 'PRGO close price' 'DLEKG close price'
- 'ILCO close price' 'EFNC close price' 'UNCR close price']"
-2016,7,"['ARNA close price' 'TUZA close price' 'LZNR close price'
+ 'ILCO close price' 'EFNC close price' 'UNCR close price']",1.165321651,2.540304266,5.037922377,15.22699718,15.72149879,25.10926753,32.18894114,90.61140634,167.4292007,764.4766527
+01-07-16,"['ARNA close price' 'TUZA close price' 'LZNR close price'
  'CNMD close price' 'ENLT close price' 'LEOF close price'
  'STCM close price' 'INBR close price' 'CPTP close price'
  'AVRT close price' 'MYDS close price' 'PNAX close price'
@@ -12659,8 +12659,8 @@
  'BCNV close price' 'WTS close price' 'MYSZ close price'
  'HRON close price' 'MLTM close price' 'CNZN close price'
  'PRGO close price' 'CTPL5 close price' 'DLEKG close price'
- 'ILCO close price' 'EFNC close price' 'UNCR close price']"
-2016,8,"['ARNA close price' 'TUZA close price' 'LZNR close price'
+ 'ILCO close price' 'EFNC close price' 'UNCR close price']",2.107360052,13.19031179,31.04810938,48.78865627,81.29551038,140.1268825,205.5940886,389.4776424,686.618245,8209.052782
+01-08-16,"['ARNA close price' 'TUZA close price' 'LZNR close price'
  'CNMD close price' 'ENLT close price' 'LEOF close price'
  'STCM close price' 'CPTP close price' 'AVRT close price'
  'PNAX close price' 'INBR close price' 'MYDS close price'
@@ -12748,8 +12748,8 @@
  'BCNV close price' 'MYSZ close price' 'HRON close price'
  'MLTM close price' 'CNZN close price' 'DLEKG close price'
  'PRGO close price' 'CTPL5 close price' 'ILCO close price'
- 'EFNC close price' 'UNCR close price']"
-2016,9,"['ARNA close price' 'TUZA close price' 'LZNR close price'
+ 'EFNC close price' 'UNCR close price']",0.597683299,4.909899929,8.085898189,13.74619314,17.94249086,37.43885305,58.21588833,105.1375582,225.6590875,773.4437745
+01-09-16,"['ARNA close price' 'TUZA close price' 'LZNR close price'
  'CNMD close price' 'ENLT close price' 'LEOF close price'
  'AVRT close price' 'STCM close price' 'CPTP close price'
  'INBR close price' 'PNAX close price' 'KARE close price'
@@ -12837,8 +12837,8 @@
  'BCNV close price' 'MYSZ close price' 'MLTM close price'
  'HRON close price' 'CNZN close price' 'DLEKG close price'
  'PRGO close price' 'CTPL5 close price' 'ILCO close price'
- 'EFNC close price' 'UNCR close price']"
-2016,10,"['ARNA close price' 'TUZA close price' 'CNMD close price'
+ 'EFNC close price' 'UNCR close price']",0.988286724,2.733593942,5.770251639,13.5359662,24.75978928,38.07815612,47.53829831,83.34649761,169.5361163,299.2910335
+01-10-16,"['ARNA close price' 'TUZA close price' 'CNMD close price'
  'LZNR close price' 'ENLT close price' 'LEOF close price'
  'CPTP close price' 'AVRT close price' 'STCM close price'
  'PNAX close price' 'INBR close price' 'BONS close price'
@@ -12927,8 +12927,8 @@
  'MYSZ close price' 'MLTM close price' 'CNZN close price'
  'DLEKG close price' 'HRON close price' 'PRGO close price'
  'CTPL5 close price' 'ILCO close price' 'EFNC close price'
- 'UNCR close price']"
-2016,11,"['ARNA close price' 'TUZA close price' 'CNMD close price'
+ 'UNCR close price']",2.281494095,8.389473743,16.07524393,34.73778042,97.25622905,119.8156275,222.5205681,278.4931158,836.4464749,10423.90173
+01-11-16,"['ARNA close price' 'TUZA close price' 'CNMD close price'
  'PNAX close price' 'LEOF close price' 'LZNR close price'
  'ENLT close price' 'CPTP close price' 'BONS close price'
  'AVRT close price' 'ORL close price' 'INBR close price'
@@ -13017,8 +13017,8 @@
  'KLIL close price' 'MYSZ close price' 'MLTM close price'
  'DLEKG close price' 'CNZN close price' 'PRGO close price'
  'ILCO close price' 'HRON close price' 'CTPL5 close price'
- 'SEMG close price' 'EFNC close price' 'UNCR close price']"
-2016,12,"['ARNA close price' 'CNMD close price' 'TUZA close price'
+ 'SEMG close price' 'EFNC close price' 'UNCR close price']",2.270934498,4.747739364,15.92617687,20.36389481,37.16257567,99.68237544,87.88648491,177.1541661,475.7690069,1849.620436
+01-12-16,"['ARNA close price' 'CNMD close price' 'TUZA close price'
  'PNAX close price' 'LEOF close price' 'BONS close price'
  'LZNR close price' 'CPTP close price' 'ENLT close price'
  'NXGN close price' 'AVRT close price' 'INBR close price'
@@ -13108,8 +13108,8 @@
  'MYSZ close price' 'MLTM close price' 'DLEKG close price'
  'PRGO close price' 'CNZN close price' 'HRON close price'
  'CTPL5 close price' 'SEMG close price' 'EFNC close price'
- 'UNCR close price']"
-2017,1,"['CNMD close price' 'ARNA close price' 'LEOF close price'
+ 'UNCR close price']",0.4939074,1.951505113,7.025450714,6.425822018,10.15760053,28.22370204,52.88393413,71.13729528,167.9663828,1378.308599
+01-01-17,"['CNMD close price' 'ARNA close price' 'LEOF close price'
  'TUZA close price' 'BONS close price' 'CPTP close price'
  'LZNR close price' 'ORL close price' 'PNAX close price'
  'AVRT close price' 'NXGN close price' 'YBOX close price'
@@ -13199,8 +13199,8 @@
  'MYSZ close price' 'MLTM close price' 'DLEKG close price'
  'PRGO close price' 'CNZN close price' 'CTPL5 close price'
  'HRON close price' 'SEMG close price' 'EFNC close price'
- 'UNCR close price']"
-2017,2,"['CNMD close price' 'ARNA close price' 'BONS close price'
+ 'UNCR close price']",1.516102414,4.631319865,13.40494906,21.38016548,58.99592988,93.25831558,207.7534644,339.9334993,864.2240144,1947.886155
+01-02-17,"['CNMD close price' 'ARNA close price' 'BONS close price'
  'LEOF close price' 'TUZA close price' 'LZNR close price'
  'CPTP close price' 'ORL close price' 'YBOX close price'
  'AVRT close price' 'NXGN close price' 'PNAX close price'
@@ -13290,8 +13290,8 @@
  'MLTM close price' 'ELTR close price' 'DLEKG close price'
  'PRGO close price' 'CNZN close price' 'CTPL5 close price'
  'HRON close price' 'EFNC close price' 'SEMG close price'
- 'UNCR close price']"
-2017,3,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'UNCR close price']",1.332035904,2.501230245,5.485168053,14.7905179,24.18063921,33.33353905,45.70383658,112.199341,202.7940303,786.319828
+01-03-17,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'LEOF close price' 'YBOX close price' 'TUZA close price'
  'AVRT close price' 'ORL close price' 'NXGN close price'
  'DCMA close price' 'ROBO close price' 'EDRL close price'
@@ -13380,8 +13380,8 @@
  'KLIL close price' 'MYSZ close price' 'MLTM close price'
  'PRGO close price' 'DLEKG close price' 'ELTR close price'
  'CNZN close price' 'HRON close price' 'SEMG close price'
- 'EFNC close price']"
-2017,4,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'EFNC close price']",2.354331569,12.91895605,17.98983336,39.19243941,46.34859257,93.18640693,153.6539307,264.7718054,537.0447077,2133.845938
+01-04-17,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'YBOX close price' 'LEOF close price' 'AVRT close price'
  'TUZA close price' 'NXGN close price' 'ORL close price'
  'DCMA close price' 'ICCM close price' 'MYDS close price'
@@ -13469,8 +13469,8 @@
  'TEVA close price' 'ILCO close price' 'MNRV close price'
  'MYSZ close price' 'MLTM close price' 'KLIL close price'
  'PRGO close price' 'DLEKG close price' 'ELTR close price'
- 'CNZN close price' 'HRON close price' 'EFNC close price']"
-2017,5,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'CNZN close price' 'HRON close price' 'EFNC close price']",2.748490851,10.04184704,12.68692943,50.11793175,59.17353544,96.99042924,167.8455009,346.5427032,768.8395097,1909.793812
+01-05-17,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'YBOX close price' 'LEOF close price' 'AVRT close price'
  'NXGN close price' 'TUZA close price' 'ORL close price'
  'ICCM close price' 'DCMA close price' 'MYDS close price'
@@ -13558,8 +13558,8 @@
  'ILCO close price' 'NTO close price' 'MNRV close price'
  'MYSZ close price' 'MLTM close price' 'PRGO close price'
  'DLEKG close price' 'KLIL close price' 'ELTR close price'
- 'CNZN close price' 'HRON close price' 'EFNC close price']"
-2017,6,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'CNZN close price' 'HRON close price' 'EFNC close price']",2.164302394,9.546030438,8.014919448,27.38278803,31.82952746,57.39287303,110.498318,167.0951545,367.3081334,1347.862648
+01-06-17,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'YBOX close price' 'NXGN close price' 'AVRT close price'
  'LEOF close price' 'TUZA close price' 'ORL close price'
  'ICCM close price' 'DCMA close price' 'MYDS close price'
@@ -13648,8 +13648,8 @@
  'ILCO close price' 'MLTM close price' 'MYSZ close price'
  'PRGO close price' 'KLIL close price' 'DLEKG close price'
  'ELTR close price' 'CNZN close price' 'HRON close price'
- 'EFNC close price']"
-2017,7,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'EFNC close price']",0.746977762,5.190774907,8.577953622,16.86423015,25.32872721,45.62726403,88.93020399,122.8792838,227.1215897,1003.441017
+01-07-17,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'YBOX close price' 'NXGN close price' 'LEOF close price'
  'AVRT close price' 'TUZA close price' 'ICCM close price'
  'ORL close price' 'MYDS close price' 'DCMA close price'
@@ -13736,8 +13736,8 @@
  'MNRV close price' 'NTO close price' 'MLTM close price'
  'PRGO close price' 'ILCO close price' 'MYSZ close price'
  'KLIL close price' 'DLEKG close price' 'ELTR close price'
- 'CNZN close price' 'HRON close price' 'EFNC close price']"
-2017,8,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'CNZN close price' 'HRON close price' 'EFNC close price']",1.796447389,6.434154021,7.137458084,20.22986298,29.25506391,64.0534254,75.16586434,175.9181888,239.5635634,920.4513941
+01-08-17,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'NXGN close price' 'YBOX close price' 'LEOF close price'
  'AVRT close price' 'TUZA close price' 'ICCM close price'
  'MYDS close price' 'ORL close price' 'DCMA close price'
@@ -13822,8 +13822,8 @@
  'HAP close price' 'MNRV close price' 'NTO close price' 'MYSZ close price'
  'PRGO close price' 'KLIL close price' 'ILCO close price'
  'DLEKG close price' 'ELTR close price' 'HRON close price'
- 'EFNC close price']"
-2017,9,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'EFNC close price']",1.997747609,7.503116841,8.496590289,29.81711184,34.5873997,70.84336334,127.8240453,158.1866746,397.021682,1744.546433
+01-09-17,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'YBOX close price' 'LEOF close price' 'AVRT close price'
  'TUZA close price' 'ICCM close price' 'MYDS close price'
  'ORL close price' 'DCMA close price' 'CHAM close price'
@@ -13903,8 +13903,8 @@
  'MLTM close price' 'MNRV close price' 'NTO close price' 'HAP close price'
  'PRGO close price' 'KLIL close price' 'MYSZ close price'
  'ILCO close price' 'DLEKG close price' 'ELTR close price'
- 'HRON close price' 'EFNC close price']"
-2017,10,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'HRON close price' 'EFNC close price']",1.50446366,4.646391746,5.334470145,8.537293535,19.27658395,33.14776095,67.97964711,92.17469034,208.2270776,816.6877396
+01-10-17,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'YBOX close price' 'MYDS close price' 'LEOF close price'
  'TUZA close price' 'ICCM close price' 'DCMA close price'
  'CHAM close price' 'ALMD close price' 'AVGL close price'
@@ -13984,8 +13984,8 @@
  'MNRV close price' 'ESLT close price' 'HAP close price'
  'KLIL close price' 'MYSZ close price' 'ILCO close price'
  'ELTR close price' 'DLEKG close price' 'EFNC close price'
- 'HRON close price']"
-2017,11,"['ARNA close price' 'CPTP close price' 'YBOX close price'
+ 'HRON close price']",1.989949064,8.298463324,12.71295827,18.03914351,33.17620507,57.71460741,103.2836297,152.9326364,277.5850124,829.5450258
+01-11-17,"['ARNA close price' 'CPTP close price' 'YBOX close price'
  'BONS close price' 'TUZA close price' 'LEOF close price'
  'MYDS close price' 'ICCM close price' 'CHAM close price'
  'DCMA close price' 'EMTC close price' 'ALMD close price'
@@ -14064,8 +14064,8 @@
  'TEVA close price' 'NTO close price' 'ESLT close price' 'HAP close price'
  'MNRV close price' 'KLIL close price' 'ILCO close price'
  'MYSZ close price' 'ELTR close price' 'EFNC close price'
- 'DLEKG close price' 'HRON close price']"
-2017,12,"['ARNA close price' 'CPTP close price' 'YBOX close price'
+ 'DLEKG close price' 'HRON close price']",1.842760298,4.653595579,5.971319061,12.54324804,19.67840395,34.63568362,42.57632266,96.61398706,172.827679,396.9600686
+01-12-17,"['ARNA close price' 'CPTP close price' 'YBOX close price'
  'BONS close price' 'TUZA close price' 'MYDS close price'
  'LEOF close price' 'PMCN close price' 'ICCM close price'
  'EMTC close price' 'ALMD close price' 'AVGL close price'
@@ -14143,8 +14143,8 @@
  'BCNV close price' 'SFET close price' 'TEVA close price'
  'ESLT close price' 'NTO close price' 'HAP close price' 'MYSZ close price'
  'KLIL close price' 'MNRV close price' 'ILCO close price'
- 'ELTR close price' 'DLEKG close price' 'HRON close price']"
-2018,1,"['ARNA close price' 'CPTP close price' 'YBOX close price'
+ 'ELTR close price' 'DLEKG close price' 'HRON close price']",5.096426865,6.676192182,24.06267404,31.14028274,50.46170229,96.68285162,143.7280166,274.8157826,557.5891452,1604.99505
+01-01-18,"['ARNA close price' 'CPTP close price' 'YBOX close price'
  'BONS close price' 'TUZA close price' 'LEOF close price'
  'MYDS close price' 'PMCN close price' 'ITMR close price'
  'EMTC close price' 'ICCM close price' 'ORL close price'
@@ -14222,8 +14222,8 @@
  'TEVA close price' 'SFET close price' 'HAP close price' 'NTO close price'
  'ESLT close price' 'MYSZ close price' 'KLIL close price'
  'MNRV close price' 'ILCO close price' 'ELTR close price'
- 'DLEKG close price' 'HRON close price']"
-2018,2,"['ARNA close price' 'CPTP close price' 'BONS close price'
+ 'DLEKG close price' 'HRON close price']",3.459998308,7.569708421,22.5431155,23.69801113,36.1046422,57.97227193,106.4341931,177.6781331,402.7334556,1125.027713
+01-02-18,"['ARNA close price' 'CPTP close price' 'BONS close price'
  'YBOX close price' 'LEOF close price' 'TUZA close price'
  'MYDS close price' 'LZNR close price' 'PMCN close price'
  'EMTC close price' 'ITMR close price' 'ORL close price' 'ICB close price'
@@ -14301,8 +14301,8 @@
  'NICE close price' 'HAP close price' 'SFET close price'
  'MYSZ close price' 'ESLT close price' 'NTO close price'
  'KLIL close price' 'MNRV close price' 'ILCO close price'
- 'ELTR close price' 'DLEKG close price' 'HRON close price']"
-2018,3,"['ARNA close price' 'BONS close price' 'CPTP close price'
+ 'ELTR close price' 'DLEKG close price' 'HRON close price']",1.32412498,3.839290193,6.607331655,9.369823846,11.94401093,29.70702321,28.96777842,44.58631913,98.56619815,258.8855885
+01-03-18,"['ARNA close price' 'BONS close price' 'CPTP close price'
  'TUZA close price' 'LEOF close price' 'YBOX close price'
  'LZNR close price' 'MYDS close price' 'EMTC close price'
  'PMCN close price' 'ITMR close price' 'ORL close price' 'ICB close price'
@@ -14380,8 +14380,8 @@
  'MYSZ close price' 'HAP close price' 'ESLT close price'
  'NICE close price' 'NTO close price' 'SFET close price'
  'MNRV close price' 'KLIL close price' 'ILCO close price'
- 'ELTR close price' 'DLEKG close price' 'HRON close price']"
-2018,4,"['ARNA close price' 'BONS close price' 'CPTP close price'
+ 'ELTR close price' 'DLEKG close price' 'HRON close price']",4.482837873,14.97594493,16.8334178,30.62573414,35.55814609,63.8049895,82.31741072,144.8585215,251.3612865,1127.204006
+01-04-18,"['ARNA close price' 'BONS close price' 'CPTP close price'
  'LEOF close price' 'TUZA close price' 'YBOX close price'
  'MYDS close price' 'EMTC close price' 'PMCN close price'
  'ORL close price' 'ITMR close price' 'ICB close price' 'LUZN close price'
@@ -14459,8 +14459,8 @@
  'BCNV close price' 'ESLT close price' 'NICE close price'
  'NTO close price' 'SFET close price' 'KLIL close price'
  'MNRV close price' 'ILCO close price' 'ELTR close price'
- 'DLEKG close price' 'HRON close price']"
-2018,5,"['ARNA close price' 'BONS close price' 'LEOF close price'
+ 'DLEKG close price' 'HRON close price']",2.162416207,11.57666211,9.586223208,15.52259594,26.08591765,35.37286267,82.04365544,69.77817662,181.7374411,917.1380866
+01-05-18,"['ARNA close price' 'BONS close price' 'LEOF close price'
  'CPTP close price' 'TUZA close price' 'YBOX close price'
  'MYDS close price' 'EMTC close price' 'ORL close price'
  'LUZN close price' 'ITMR close price' 'PMCN close price'
@@ -14537,8 +14537,8 @@
  'BCNV close price' 'PZOL close price' 'NTO close price'
  'KLIL close price' 'SFET close price' 'ESLT close price'
  'NICE close price' 'MNRV close price' 'ILCO close price'
- 'ELTR close price' 'DLEKG close price' 'HRON close price']"
-2018,6,"['ARNA close price' 'BONS close price' 'LEOF close price'
+ 'ELTR close price' 'DLEKG close price' 'HRON close price']",2.682905358,10.71782635,8.539553075,18.29818733,35.04132981,37.32610049,69.1904609,92.21261142,217.8677093,727.1909946
+01-06-18,"['ARNA close price' 'BONS close price' 'LEOF close price'
  'CPTP close price' 'TUZA close price' 'YBOX close price'
  'EMTC close price' 'MYDS close price' 'ORL close price'
  'LUZN close price' 'ITMR close price' 'PMCN close price'
@@ -14618,8 +14618,8 @@
  'KLIL close price' 'SFET close price' 'PZOL close price'
  'ESLT close price' 'MNRV close price' 'NICE close price'
  'ILCO close price' 'ELTR close price' 'DLEKG close price'
- 'HRON close price']"
-2018,7,"['ARNA close price' 'LEOF close price' 'BONS close price'
+ 'HRON close price']",1.51745874,4.518376786,4.26577895,8.465125387,13.58492687,18.01862918,23.39929187,37.0921901,108.663791,212.7262355
+01-07-18,"['ARNA close price' 'LEOF close price' 'BONS close price'
  'CPTP close price' 'TUZA close price' 'YBOX close price'
  'EMTC close price' 'ORL close price' 'LUZN close price'
  'LAHAV close price' 'ALMD close price' 'PMCN close price'
@@ -14698,8 +14698,8 @@
  'KLIL close price' 'MDVI close price' 'PTBL close price'
  'SFET close price' 'PZOL close price' 'ESLT close price'
  'MNRV close price' 'NICE close price' 'ELTR close price'
- 'ILCO close price' 'DLEKG close price' 'HRON close price']"
-2018,8,"['ARNA close price' 'BONS close price' 'TUZA close price'
+ 'ILCO close price' 'DLEKG close price' 'HRON close price']",5.646093861,18.08634219,14.55508896,29.89721304,46.46767298,85.59303722,107.8646786,192.4080224,429.2951151,616.4152121
+01-08-18,"['ARNA close price' 'BONS close price' 'TUZA close price'
  'CPTP close price' 'YBOX close price' 'MRHL close price'
  'ALMD close price' 'NXGN close price' 'EMTC close price'
  'LUZN close price' 'ORL close price' 'ITMR close price'
@@ -14779,8 +14779,8 @@
  'PTBL close price' 'SFET close price' 'ESLT close price'
  'MNRV close price' 'PZOL close price' 'NICE close price'
  'ELTR close price' 'DLEKG close price' 'ILCO close price'
- 'HRON close price']"
-2018,9,"['BONS close price' 'TUZA close price' 'CPTP close price'
+ 'HRON close price']",6.766485236,23.51518289,23.93719756,37.13878192,41.73650172,82.79996933,119.3992119,178.926443,461.2572227,638.723305
+01-09-18,"['BONS close price' 'TUZA close price' 'CPTP close price'
  'ALMD close price' 'MRHL close price' 'NXGN close price'
  'YBOX close price' 'EMTC close price' 'LUZN close price'
  'PMCN close price' 'ORL close price' 'LAHAV close price'
@@ -14860,8 +14860,8 @@
  'PTBL close price' 'SFET close price' 'ESLT close price'
  'MNRV close price' 'PZOL close price' 'NICE close price'
  'ELTR close price' 'DLEKG close price' 'HRON close price'
- 'ILCO close price']"
-2018,10,"['BONS close price' 'TUZA close price' 'MRHL close price'
+ 'ILCO close price']",2.836433901,7.180156872,11.95906227,20.2515212,23.01147123,61.28739059,52.97165529,71.96954625,195.2327326,621.3112196
+01-10-18,"['BONS close price' 'TUZA close price' 'MRHL close price'
  'CPTP close price' 'NXGN close price' 'ALMD close price'
  'EMTC close price' 'YBOX close price' 'PMCN close price'
  'LUZN close price' 'ORL close price' 'LAHAV close price'
@@ -14940,8 +14940,8 @@
  'PTBL close price' 'ESLT close price' 'SFET close price'
  'MNRV close price' 'PZOL close price' 'ELTR close price'
  'NICE close price' 'DLEKG close price' 'HRON close price'
- 'ILCO close price']"
-2018,11,"['BONS close price' 'TUZA close price' 'MRHL close price'
+ 'ILCO close price']",2.281022964,7.033285411,6.521655987,11.23320542,11.53736819,32.34051661,59.2255082,48.53653333,147.1412809,257.9594888
+01-11-18,"['BONS close price' 'TUZA close price' 'MRHL close price'
  'NXGN close price' 'CPTP close price' 'EMTC close price'
  'PMCN close price' 'PEN close price' 'YBOX close price'
  'LUZN close price' 'ALMD close price' 'ORL close price'
@@ -15020,8 +15020,8 @@
  'HAP close price' 'ESLT close price' 'SFET close price'
  'PTBL close price' 'MNRV close price' 'PZOL close price'
  'ELTR close price' 'NICE close price' 'DLEKG close price'
- 'HRON close price' 'ILCO close price']"
-2018,12,"['BONS close price' 'TUZA close price' 'EMTC close price'
+ 'HRON close price' 'ILCO close price']",5.689375911,13.75820092,24.21974278,18.22002024,59.65847534,44.57205241,98.27003473,126.0480874,275.983709,874.065341
+01-12-18,"['BONS close price' 'TUZA close price' 'EMTC close price'
  'MRHL close price' 'NXGN close price' 'ENLT close price'
  'CPTP close price' 'PEN close price' 'LUZN close price'
  'LAHAV close price' 'ORL close price' 'ITMR close price'
@@ -15100,8 +15100,8 @@
  'PTBL close price' 'MNRV close price' 'ESLT close price'
  'ELTR close price' 'PRGO close price' 'PZOL close price'
  'NICE close price' 'DLEKG close price' 'HRON close price'
- 'ILCO close price']"
-2019,1,"['TUZA close price' 'BONS close price' 'EMTC close price'
+ 'ILCO close price']",1.297508233,5.090176009,7.045427844,12.27565594,10.01022765,40.08599693,34.31665052,55.25415323,114.7653432,258.7582244
+01-01-19,"['TUZA close price' 'BONS close price' 'EMTC close price'
  'NXGN close price' 'MRHL close price' 'ENLT close price'
  'PEN close price' 'CPTP close price' 'LAHAV close price'
  'LUZN close price' 'ORL close price' 'RSEL close price'
@@ -15178,8 +15178,8 @@
  'SFET close price' 'BCNV close price' 'ESLT close price'
  'MNRV close price' 'ELTR close price' 'KLIL close price'
  'PZOL close price' 'NICE close price' 'PRGO close price'
- 'DLEKG close price' 'HRON close price' 'ILCO close price']"
-2019,2,"['TUZA close price' 'BONS close price' 'EMTC close price'
+ 'DLEKG close price' 'HRON close price' 'ILCO close price']",3.968335302,14.08111526,17.4979183,30.83340029,43.06887734,65.55601086,104.1692069,238.1827694,380.419123,900.2142908
+01-02-19,"['TUZA close price' 'BONS close price' 'EMTC close price'
  'NXGN close price' 'MRHL close price' 'CPTP close price'
  'LAHAV close price' 'LUZN close price' 'PEN close price'
  'ORL close price' 'ITMR close price' 'YBOX close price'
@@ -15256,8 +15256,8 @@
  'MLTM close price' 'BCNV close price' 'ESLT close price'
  'MNRV close price' 'ELTR close price' 'PZOL close price'
  'KLIL close price' 'NICE close price' 'DLEKG close price'
- 'PRGO close price' 'HRON close price' 'ILCO close price']"
-2019,3,"['TUZA close price' 'BONS close price' 'EMTC close price'
+ 'PRGO close price' 'HRON close price' 'ILCO close price']",1.45549135,5.070059845,10.18598621,16.36446811,17.51817363,30.0692985,42.58847819,74.08974367,165.4882242,253.7199151
+01-03-19,"['TUZA close price' 'BONS close price' 'EMTC close price'
  'NXGN close price' 'MRHL close price' 'CPTP close price'
  'LAHAV close price' 'LUZN close price' 'PEN close price'
  'ORL close price' 'YBOX close price' 'ITMR close price'
@@ -15335,8 +15335,8 @@
  'BCNV close price' 'ESLT close price' 'ISRS close price'
  'ELTR close price' 'PZOL close price' 'MNRV close price'
  'KLIL close price' 'NICE close price' 'DLEKG close price'
- 'PRGO close price' 'HRON close price' 'ILCO close price']"
-2019,4,"['TUZA close price' 'BONS close price' 'NXGN close price'
+ 'PRGO close price' 'HRON close price' 'ILCO close price']",3.4965301,14.98526373,19.24093623,21.50493752,33.27620752,79.88788244,102.4185853,153.3489714,318.1429716,996.2756582
+01-04-19,"['TUZA close price' 'BONS close price' 'NXGN close price'
  'EMTC close price' 'CPTP close price' 'MRHL close price'
  'LUZN close price' 'LAHAV close price' 'ORL close price'
  'ITMR close price' 'YBOX close price' 'PEN close price'
@@ -15414,8 +15414,8 @@
  'MLTM close price' 'PZOL close price' 'KLIL close price'
  'MNRV close price' 'ELTR close price' 'NICE close price'
  'ISRS close price' 'PRGO close price' 'DLEKG close price'
- 'HRON close price' 'ILCO close price']"
-2019,5,"['TUZA close price' 'BONS close price' 'NXGN close price'
+ 'HRON close price' 'ILCO close price']",1.803571552,6.724631536,12.74015848,13.93223463,19.83395642,29.6125726,78.68019344,118.737689,206.1821765,536.6795751
+01-05-19,"['TUZA close price' 'BONS close price' 'NXGN close price'
  'EMTC close price' 'CPTP close price' 'MRHL close price'
  'LUZN close price' 'LAHAV close price' 'ORL close price'
  'ITMR close price' 'YBOX close price' 'ELAL close price'
@@ -15494,8 +15494,8 @@
  'KLIL close price' 'PZOL close price' 'MLTM close price'
  'MNRV close price' 'NICE close price' 'ISRS close price'
  'ELTR close price' 'PRGO close price' 'DLEKG close price'
- 'HRON close price' 'ILCO close price']"
-2019,6,"['TUZA close price' 'NXGN close price' 'BONS close price'
+ 'HRON close price' 'ILCO close price']",1.21385559,5.176374344,10.81902617,13.23632653,22.45863818,34.2825896,58.36291696,118.2941782,126.9421036,623.3438559
+01-06-19,"['TUZA close price' 'NXGN close price' 'BONS close price'
  'CPTP close price' 'EMTC close price' 'MRHL close price'
  'ORL close price' 'LUZN close price' 'LAHAV close price'
  'ITMR close price' 'YBOX close price' 'ELAL close price'
@@ -15573,8 +15573,8 @@
  'KLIL close price' 'MLTM close price' 'MNRV close price'
  'NICE close price' 'DLEKG close price' 'ISRS close price'
  'PRGO close price' 'ELTR close price' 'HRON close price'
- 'ILCO close price']"
-2019,7,"['TUZA close price' 'NXGN close price' 'BONS close price'
+ 'ILCO close price']",3.161439739,16.99982333,21.57439432,28.84941514,46.45750004,43.5077411,205.4152492,261.3122423,456.0779057,1796.409276
+01-07-19,"['TUZA close price' 'NXGN close price' 'BONS close price'
  'CPTP close price' 'LUZN close price' 'ORL close price'
  'MRHL close price' 'LAHAV close price' 'EMTC close price'
  'YBOX close price' 'MSBI close price' 'ITMR close price'
@@ -15653,8 +15653,8 @@
  'ESLT close price' 'MLTM close price' 'MNRV close price'
  'PRGO close price' 'DLEKG close price' 'NICE close price'
  'ISRS close price' 'ELTR close price' 'HRON close price'
- 'ILCO close price']"
-2019,8,"['TUZA close price' 'CPTP close price' 'NXGN close price'
+ 'ILCO close price']",3.345670313,19.35359286,15.79483227,39.88681875,44.57867191,54.32502202,233.855589,394.4732616,509.9890275,2267.584111
+01-08-19,"['TUZA close price' 'CPTP close price' 'NXGN close price'
  'BONS close price' 'ORL close price' 'LUZN close price'
  'LAHAV close price' 'MRHL close price' 'YBOX close price'
  'EMTC close price' 'ITMR close price' 'ICCM close price'
@@ -15733,8 +15733,8 @@
  'PRGO close price' 'ESLT close price' 'MNRV close price'
  'NICE close price' 'DLEKG close price' 'MLTM close price'
  'ISRS close price' 'ELTR close price' 'HRON close price'
- 'ILCO close price']"
-2019,9,"['ARNA close price' 'TUZA close price' 'CPTP close price'
+ 'ILCO close price']",1.600436372,4.420049669,6.793364914,10.67443554,12.59117135,20.45238064,57.39617699,100.6176383,148.4231197,549.2255583
+01-09-19,"['ARNA close price' 'TUZA close price' 'CPTP close price'
  'BONS close price' 'LUZN close price' 'ORL close price'
  'LAHAV close price' 'MRHL close price' 'YBOX close price'
  'EMTC close price' 'ICCM close price' 'ITMR close price'
@@ -15814,8 +15814,8 @@
  'HAP close price' 'ONE close price' 'ESLT close price' 'MNRV close price'
  'NICE close price' 'MLTM close price' 'DLEKG close price'
  'ELTR close price' 'HRON close price' 'ISRS close price'
- 'ILCO close price']"
-2019,10,"['ARNA close price' 'TUZA close price' 'CPTP close price'
+ 'ILCO close price']",1.21570827,5.515233351,6.646949103,19.62903519,16.96056257,27.76597758,42.26266755,128.6793014,121.5657235,660.0175095
+01-10-19,"['ARNA close price' 'TUZA close price' 'CPTP close price'
  'BONS close price' 'ORL close price' 'LUZN close price'
  'LAHAV close price' 'MRHL close price' 'ICB close price'
  'ICCM close price' 'EMTC close price' 'YBOX close price'
@@ -15895,8 +15895,8 @@
  'HAP close price' 'ESLT close price' 'MNRV close price'
  'NICE close price' 'DLEKG close price' 'MLTM close price'
  'HRON close price' 'ELTR close price' 'ISRS close price'
- 'ILCO close price']"
-2019,11,"['ARNA close price' 'TUZA close price' 'CPTP close price'
+ 'ILCO close price']",3.690946856,9.364747331,11.05415259,27.50454592,33.4599974,54.69849606,87.26013992,291.2460358,602.1539978,1390.258367
+01-11-19,"['ARNA close price' 'TUZA close price' 'CPTP close price'
  'BONS close price' 'ORL close price' 'LUZN close price'
  'MRHL close price' 'ICB close price' 'STCM close price'
  'LAHAV close price' 'EMTC close price' 'ICCM close price'
@@ -15974,8 +15974,8 @@
  'HAP close price' 'ESLT close price' 'MNRV close price'
  'NICE close price' 'DLEKG close price' 'HRON close price'
  'MLTM close price' 'ILCO close price' 'ISRS close price'
- 'ELTR close price']"
-2019,12,"['ARNA close price' 'CPTP close price' 'TUZA close price'
+ 'ELTR close price']",1.204668234,2.706900016,6.658249779,12.04415795,13.72176495,15.58622183,19.29574228,88.83650248,138.5383607,635.0777449
+01-12-19,"['ARNA close price' 'CPTP close price' 'TUZA close price'
  'BONS close price' 'LUZN close price' 'MRHL close price'
  'ORL close price' 'ILDR close price' 'STCM close price' 'ICB close price'
  'EMTC close price' 'ALMD close price' 'MCRNT close price'
@@ -16054,4 +16054,15 @@
  'BIG close price' 'ARAD close price' 'ONE close price' 'ESLT close price'
  'MNRV close price' 'HAP close price' 'NICE close price'
  'DLEKG close price' 'HRON close price' 'MLTM close price'
- 'ILCO close price' 'ISRS close price' 'ELTR close price']"
+ 'ILCO close price' 'ISRS close price' 'ELTR close price']",2.382079185,8.342832948,7.712159863,32.03635651,57.88910613,114.6335939,110.9903211,206.5431701,697.8422128,2639.028551
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,3.749901204,10.8458981,18.58647901,29.4614657,46.7861611,71.65326577,115.9119603,188.0327854,384.419268,220473.152
+,,,,,,,,,,,2.382088909,7.594855992,13.09968096,21.20288195,32.03550458,52.9244548,90.32144443,150.1874568,311.2211651,79379.79837
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,3.749901204,10.8458981,18.58647901,29.4614657,46.7861611,71.65326577,115.9119603,188.0327854,384.419268,220473.152
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,2.382088909,7.594855992,13.09968096,21.20288195,32.03550458,52.9244548,90.32144443,150.1874568,311.2211651,79379.79837

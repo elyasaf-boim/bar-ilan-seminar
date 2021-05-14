@@ -1,11 +1,8 @@
 import datetime
 import itertools
 import math
-from math import ceil
 
 import pandas as pd
-import numpy as np
-from const import bad_stocks, RISK_FREE
 
 
 def compute_deciles_std():
@@ -18,8 +15,9 @@ def compute_deciles_std():
     df = df.sort_index()
     df = df.apply(pd.to_numeric)
     df_before_std = df.copy()
-    df = np.log(df.resample('W').ffill().pct_change() + 1)
-    df = df.rolling(52 * 1).std()
+    # df = np.log(df.resample('W').ffill().pct_change() + 1)
+    df = df.resample('W').ffill()
+    df = df.rolling(4).std()
     deciles = pd.read_csv("../Data/investing_deciles.csv").rename(
         columns={'Unnamed: 0': 'year', 'Unnamed: 1': 'month'})
     deciles['Date'] = pd.to_datetime(deciles['year'].map(str) + '/' + deciles['month'].map(str) + '/01')
@@ -57,7 +55,7 @@ def compute_deciles_std():
                     for i in stocks:
                         res += weith ** 2 * decile_std_by_dt[i] ** 2
                     deciles.at[dt, f'{col}_std'] = math.sqrt(res)
-    deciles.to_csv('../Data/declies_with_std.csv')
+    deciles.to_csv('../Data/declies_with_std_real_3.csv')
 
 
 if __name__ == '__main__':
